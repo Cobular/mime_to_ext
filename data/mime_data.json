@@ -1,0 +1,4214 @@
+[
+  {
+    "name": "3D Crossword Plugin",
+    "mime": "application/vnd.hzn-3d-crossword",
+    "ext": ".x3d",
+    "details": "IANA: 3D Crossword Plugin"
+  },
+  {
+    "name": "3GP",
+    "mime": "video/3gpp",
+    "ext": ".3gp",
+    "details": "Wikipedia: 3GP"
+  },
+  {
+    "name": "3GP2",
+    "mime": "video/3gpp2",
+    "ext": ".3g2",
+    "details": "Wikipedia: 3G2"
+  },
+  {
+    "name": "3GPP MSEQ File",
+    "mime": "application/vnd.mseq",
+    "ext": ".mseq",
+    "details": "IANA: 3GPP MSEQ File"
+  },
+  {
+    "name": "3M Post It Notes",
+    "mime": "application/vnd.3m.post-it-notes",
+    "ext": ".pwn",
+    "details": "IANA: 3M Post It Notes"
+  },
+  {
+    "name": "3rd Generation Partnership Project - Pic Large",
+    "mime": "application/vnd.3gpp.pic-bw-large",
+    "ext": ".plb",
+    "details": "3GPP"
+  },
+  {
+    "name": "3rd Generation Partnership Project - Pic Small",
+    "mime": "application/vnd.3gpp.pic-bw-small",
+    "ext": ".psb",
+    "details": "3GPP"
+  },
+  {
+    "name": "3rd Generation Partnership Project - Pic Var",
+    "mime": "application/vnd.3gpp.pic-bw-var",
+    "ext": ".pvb",
+    "details": "3GPP"
+  },
+  {
+    "name": "3rd Generation Partnership Project - Transaction Capabilities Application Part",
+    "mime": "application/vnd.3gpp2.tcap",
+    "ext": ".tcap",
+    "details": "3GPP"
+  },
+  {
+    "name": "7-Zip",
+    "mime": "application/x-7z-compressed",
+    "ext": ".7z",
+    "details": "Wikipedia: 7-Zip"
+  },
+  {
+    "name": "AbiWord",
+    "mime": "application/x-abiword",
+    "ext": ".abw",
+    "details": "Wikipedia: AbiWord"
+  },
+  {
+    "name": "Ace Archive",
+    "mime": "application/x-ace-compressed",
+    "ext": ".ace",
+    "details": "Wikipedia: ACE"
+  },
+  {
+    "name": "Active Content Compression",
+    "mime": "application/vnd.americandynamics.acc",
+    "ext": ".acc",
+    "details": "IANA: Active Content Compression"
+  },
+  {
+    "name": "ACU Cobol",
+    "mime": "application/vnd.acucobol",
+    "ext": ".acu",
+    "details": "IANA: ACU Cobol"
+  },
+  {
+    "name": "ACU Cobol",
+    "mime": "application/vnd.acucorp",
+    "ext": ".atc",
+    "details": "IANA: ACU Cobol"
+  },
+  {
+    "name": "Adaptive differential pulse-code modulation",
+    "mime": "audio/adpcm",
+    "ext": ".adp",
+    "details": "Wikipedia: ADPCM"
+  },
+  {
+    "name": "Adobe (Macropedia) Authorware - Binary File",
+    "mime": "application/x-authorware-bin",
+    "ext": ".aab",
+    "details": "Wikipedia: Authorware"
+  },
+  {
+    "name": "Adobe (Macropedia) Authorware - Map",
+    "mime": "application/x-authorware-map",
+    "ext": ".aam",
+    "details": "Wikipedia: Authorware"
+  },
+  {
+    "name": "Adobe (Macropedia) Authorware - Segment File",
+    "mime": "application/x-authorware-seg",
+    "ext": ".aas",
+    "details": "Wikipedia: Authorware"
+  },
+  {
+    "name": "Adobe AIR Application",
+    "mime": "application/vnd.adobe.air-application-installer-package+zip",
+    "ext": ".air",
+    "details": "Building AIR Applications"
+  },
+  {
+    "name": "Adobe Flash",
+    "mime": "application/x-shockwave-flash",
+    "ext": ".swf",
+    "details": "Wikipedia: Adobe Flash"
+  },
+  {
+    "name": "Adobe Flex Project",
+    "mime": "application/vnd.adobe.fxp",
+    "ext": ".fxp",
+    "details": "IANA: Adobe Flex Project"
+  },
+  {
+    "name": "Adobe Portable Document Format",
+    "mime": "application/pdf",
+    "ext": ".pdf",
+    "details": "Adobe PDF"
+  },
+  {
+    "name": "Adobe PostScript Printer Description File Format",
+    "mime": "application/vnd.cups-ppd",
+    "ext": ".ppd",
+    "details": "IANA: Cups"
+  },
+  {
+    "name": "Adobe Shockwave Player",
+    "mime": "application/x-director",
+    "ext": ".dir",
+    "details": "Wikipedia: Adobe Shockwave Player"
+  },
+  {
+    "name": "Adobe XML Data Package",
+    "mime": "application/vnd.adobe.xdp+xml",
+    "ext": ".xdp",
+    "details": "Wikipedia: XML Data Package"
+  },
+  {
+    "name": "Adobe XML Forms Data Format",
+    "mime": "application/vnd.adobe.xfdf",
+    "ext": ".xfdf",
+    "details": "Wikipedia: XML Portable Document Format"
+  },
+  {
+    "name": "Advanced Audio Coding (AAC)",
+    "mime": "audio/x-aac",
+    "ext": ".aac",
+    "details": "Wikipedia: AAC"
+  },
+  {
+    "name": "Ahead AIR Application",
+    "mime": "application/vnd.ahead.space",
+    "ext": ".ahead",
+    "details": "IANA: Ahead AIR Application"
+  },
+  {
+    "name": "AirZip FileSECURE",
+    "mime": "application/vnd.airzip.filesecure.azf",
+    "ext": ".azf",
+    "details": "IANA: AirZip"
+  },
+  {
+    "name": "AirZip FileSECURE",
+    "mime": "application/vnd.airzip.filesecure.azs",
+    "ext": ".azs",
+    "details": "IANA: AirZip"
+  },
+  {
+    "name": "Amazon Kindle eBook format",
+    "mime": "application/vnd.amazon.ebook",
+    "ext": ".azw",
+    "details": "Kindle Direct Publishing"
+  },
+  {
+    "name": "AmigaDE",
+    "mime": "application/vnd.amiga.ami",
+    "ext": ".ami",
+    "details": "IANA: Amiga"
+  },
+  {
+    "name": "Andrew Toolkit",
+    "mime": "application/andrew-inset",
+    "ext": "N/A",
+    "details": "IANA - Andrew Inset"
+  },
+  {
+    "name": "Android Package Archive",
+    "mime": "application/vnd.android.package-archive",
+    "ext": ".apk",
+    "details": "Wikipedia: APK File Format"
+  },
+  {
+    "name": "ANSER-WEB Terminal Client - Certificate Issue",
+    "mime": "application/vnd.anser-web-certificate-issue-initiation",
+    "ext": ".cii",
+    "details": "IANA: ANSWER-WEB"
+  },
+  {
+    "name": "ANSER-WEB Terminal Client - Web Funds Transfer",
+    "mime": "application/vnd.anser-web-funds-transfer-initiation",
+    "ext": ".fti",
+    "details": "IANA: ANSWER-WEB"
+  },
+  {
+    "name": "Antix Game Player",
+    "mime": "application/vnd.antix.game-component",
+    "ext": ".atx",
+    "details": "IANA: Antix Game Component"
+  },
+  {
+    "name": "Apple Disk Image",
+    "mime": "application/x-apple-diskimage",
+    "ext": ".dmg",
+    "details": "Apple Disk Image"
+  },
+  {
+    "name": "Apple Installer Package",
+    "mime": "application/vnd.apple.installer+xml",
+    "ext": ".mpkg",
+    "details": "IANA: Apple Installer"
+  },
+  {
+    "name": "Applixware",
+    "mime": "application/applixware",
+    "ext": ".aw",
+    "details": "Vistasource"
+  },
+  {
+    "name": "Archipelago Lesson Player",
+    "mime": "application/vnd.hhe.lesson-player",
+    "ext": ".les",
+    "details": "IANA: Archipelago Lesson Player"
+  },
+  {
+    "name": "Archive document - Multiple Fils Embedded",
+    "mime": "application/x-freearc",
+    "ext": ".arc",
+    "details": "FreeArc"
+  },
+  {
+    "name": "Arista Networks Software Image",
+    "mime": "application/vnd.aristanetworks.swi",
+    "ext": ".swi",
+    "details": "IANA: Arista Networks Software Image"
+  },
+  {
+    "name": "Assembler Source File",
+    "mime": "text/x-asm",
+    "ext": ".s",
+    "details": "Wikipedia: Assembly"
+  },
+  {
+    "name": "Atom Publishing Protocol",
+    "mime": "application/atomcat+xml",
+    "ext": ".atomcat",
+    "details": "RFC 5023"
+  },
+  {
+    "name": "Atom Publishing Protocol Service Document",
+    "mime": "application/atomsvc+xml",
+    "ext": ".atomsvc",
+    "details": "RFC 5023"
+  },
+  {
+    "name": "Atom Syndication Format",
+    "mime": "application/atom+xml",
+    "ext": ".atom",
+    "details": "RFC 4287"
+  },
+  {
+    "name": "Attribute Certificate",
+    "mime": "application/pkix-attr-cert",
+    "ext": ".ac",
+    "details": "RFC 5877"
+  },
+  {
+    "name": "Audio Interchange File Format",
+    "mime": "audio/x-aiff",
+    "ext": ".aif",
+    "details": "Wikipedia: Audio Interchange File Format"
+  },
+  {
+    "name": "Audio Video Interleave (AVI)",
+    "mime": "video/x-msvideo",
+    "ext": ".avi",
+    "details": "Wikipedia: AVI"
+  },
+  {
+    "name": "Audiograph",
+    "mime": "application/vnd.audiograph",
+    "ext": ".aep",
+    "details": "IANA: Audiograph"
+  },
+  {
+    "name": "AutoCAD DXF",
+    "mime": "image/vnd.dxf",
+    "ext": ".dxf",
+    "details": "Wikipedia: AutoCAD DXF"
+  },
+  {
+    "name": "Autodesk Design Web Format (DWF)",
+    "mime": "model/vnd.dwf",
+    "ext": ".dwf",
+    "details": "Wikipedia: Design Web Format"
+  },
+  {
+    "name": "AV1 Image File",
+    "mime": "image/avif",
+    "ext": ".avif",
+    "details": "AV1 Image File Format"
+  },
+  {
+    "name": "BAS Partitur Format",
+    "mime": "text/plain-bas",
+    "ext": ".par",
+    "details": "Phonetik BAS"
+  },
+  {
+    "name": "Binary CPIO Archive",
+    "mime": "application/x-bcpio",
+    "ext": ".bcpio",
+    "details": "Wikipedia: cpio"
+  },
+  {
+    "name": "Binary Data",
+    "mime": "application/octet-stream",
+    "ext": ".bin",
+    "details": ""
+  },
+  {
+    "name": "Bitmap Image File",
+    "mime": "image/bmp",
+    "ext": ".bmp",
+    "details": "Wikipedia: BMP File Format"
+  },
+  {
+    "name": "BitTorrent",
+    "mime": "application/x-bittorrent",
+    "ext": ".torrent",
+    "details": "Wikipedia: BitTorrent"
+  },
+  {
+    "name": "Blackberry COD File",
+    "mime": "application/vnd.rim.cod",
+    "ext": ".cod",
+    "details": ""
+  },
+  {
+    "name": "Blueice Research Multipass",
+    "mime": "application/vnd.blueice.multipass",
+    "ext": ".mpm",
+    "details": "IANA: Multipass"
+  },
+  {
+    "name": "BMI Drawing Data Interchange",
+    "mime": "application/vnd.bmi",
+    "ext": ".bmi",
+    "details": "IANA: BMI"
+  },
+  {
+    "name": "Bourne Shell Script",
+    "mime": "application/x-sh",
+    "ext": ".sh",
+    "details": "Wikipedia: Bourne Shell"
+  },
+  {
+    "name": "BTIF",
+    "mime": "image/prs.btif",
+    "ext": ".btif",
+    "details": "IANA: BTIF"
+  },
+  {
+    "name": "BusinessObjects",
+    "mime": "application/vnd.businessobjects",
+    "ext": ".rep",
+    "details": "IANA: BusinessObjects"
+  },
+  {
+    "name": "Bzip Archive",
+    "mime": "application/x-bzip",
+    "ext": ".bz",
+    "details": "Wikipedia: Bzip"
+  },
+  {
+    "name": "Bzip2 Archive",
+    "mime": "application/x-bzip2",
+    "ext": ".bz2",
+    "details": "Wikipedia: Bzip"
+  },
+  {
+    "name": "C Shell Script",
+    "mime": "application/x-csh",
+    "ext": ".csh",
+    "details": "Wikipedia: C Shell"
+  },
+  {
+    "name": "C Source File",
+    "mime": "text/x-c",
+    "ext": ".c",
+    "details": "Wikipedia: C Programming Language"
+  },
+  {
+    "name": "CambridgeSoft Chem Draw",
+    "mime": "application/vnd.chemdraw+xml",
+    "ext": ".cdxml",
+    "details": "IANA: Chem Draw"
+  },
+  {
+    "name": "Cascading Style Sheets (CSS)",
+    "mime": "text/css",
+    "ext": ".css",
+    "details": "Wikipedia: CSS"
+  },
+  {
+    "name": "CD Audio",
+    "mime": "application/x-cdf",
+    "ext": ".cda",
+    "details": "Wikipedia: CDA File"
+  },
+  {
+    "name": "ChemDraw eXchange file",
+    "mime": "chemical/x-cdx",
+    "ext": ".cdx",
+    "details": "ChemDraw eXchange file"
+  },
+  {
+    "name": "Chemical Markup Language",
+    "mime": "chemical/x-cml",
+    "ext": ".cml",
+    "details": "Wikipedia: Chemical Markup Language"
+  },
+  {
+    "name": "Chemical Style Markup Language",
+    "mime": "chemical/x-csml",
+    "ext": ".csml",
+    "details": "Wikipedia: Chemical Style Markup Language"
+  },
+  {
+    "name": "CIM Database",
+    "mime": "application/vnd.contact.cmsg",
+    "ext": ".cdbcmsg",
+    "details": "IANA: CIM Database"
+  },
+  {
+    "name": "Claymore Data Files",
+    "mime": "application/vnd.claymore",
+    "ext": ".cla",
+    "details": "IANA: Claymore"
+  },
+  {
+    "name": "Clonk Game",
+    "mime": "application/vnd.clonk.c4group",
+    "ext": ".c4g",
+    "details": "IANA: Clonk"
+  },
+  {
+    "name": "Close Captioning - Subtitle",
+    "mime": "image/vnd.dvb.subtitle",
+    "ext": ".sub",
+    "details": "Wikipedia: Closed Captioning"
+  },
+  {
+    "name": "Cloud Data Management Interface (CDMI) - Capability",
+    "mime": "application/cdmi-capability",
+    "ext": ".cdmia",
+    "details": "RFC 6208"
+  },
+  {
+    "name": "Cloud Data Management Interface (CDMI) - Contaimer",
+    "mime": "application/cdmi-container",
+    "ext": ".cdmic",
+    "details": "RFC 6209"
+  },
+  {
+    "name": "Cloud Data Management Interface (CDMI) - Domain",
+    "mime": "application/cdmi-domain",
+    "ext": ".cdmid",
+    "details": "RFC 6210"
+  },
+  {
+    "name": "Cloud Data Management Interface (CDMI) - Object",
+    "mime": "application/cdmi-object",
+    "ext": ".cdmio",
+    "details": "RFC 6211"
+  },
+  {
+    "name": "Cloud Data Management Interface (CDMI) - Queue",
+    "mime": "application/cdmi-queue",
+    "ext": ".cdmiq",
+    "details": "RFC 6212"
+  },
+  {
+    "name": "ClueTrust CartoMobile - Config",
+    "mime": "application/vnd.cluetrust.cartomobile-config",
+    "ext": ".c11amc",
+    "details": "IANA: CartoMobile"
+  },
+  {
+    "name": "ClueTrust CartoMobile - Config Package",
+    "mime": "application/vnd.cluetrust.cartomobile-config-pkg",
+    "ext": ".c11amz",
+    "details": "IANA: CartoMobile"
+  },
+  {
+    "name": "CMU Image",
+    "mime": "image/x-cmu-raster",
+    "ext": ".ras",
+    "details": ""
+  },
+  {
+    "name": "COLLADA",
+    "mime": "model/vnd.collada+xml",
+    "ext": ".dae",
+    "details": "IANA: COLLADA"
+  },
+  {
+    "name": "Comma-Seperated Values",
+    "mime": "text/csv",
+    "ext": ".csv",
+    "details": "Wikipedia: CSV"
+  },
+  {
+    "name": "Compact Pro",
+    "mime": "application/mac-compactpro",
+    "ext": ".cpt",
+    "details": "Compact Pro"
+  },
+  {
+    "name": "Compiled Wireless Markup Language (WMLC)",
+    "mime": "application/vnd.wap.wmlc",
+    "ext": ".wmlc",
+    "details": "IANA: WMLC"
+  },
+  {
+    "name": "Computer Graphics Metafile",
+    "mime": "image/cgm",
+    "ext": ".cgm",
+    "details": "Wikipedia: Computer Graphics Metafile"
+  },
+  {
+    "name": "CoolTalk",
+    "mime": "x-conference/x-cooltalk",
+    "ext": ".ice",
+    "details": "Wikipedia: CoolTalk"
+  },
+  {
+    "name": "Corel Metafile Exchange (CMX)",
+    "mime": "image/x-cmx",
+    "ext": ".cmx",
+    "details": "Wikipedia: CorelDRAW"
+  },
+  {
+    "name": "CorelXARA",
+    "mime": "application/vnd.xara",
+    "ext": ".xar",
+    "details": "IANA: CorelXARA"
+  },
+  {
+    "name": "CosmoCaller",
+    "mime": "application/vnd.cosmocaller",
+    "ext": ".cmc",
+    "details": "IANA: CosmoCaller"
+  },
+  {
+    "name": "CPIO Archive",
+    "mime": "application/x-cpio",
+    "ext": ".cpio",
+    "details": "Wikipedia: cpio"
+  },
+  {
+    "name": "CrickSoftware - Clicker",
+    "mime": "application/vnd.crick.clicker",
+    "ext": ".clkx",
+    "details": "IANA: Clicker"
+  },
+  {
+    "name": "CrickSoftware - Clicker - Keyboard",
+    "mime": "application/vnd.crick.clicker.keyboard",
+    "ext": ".clkk",
+    "details": "IANA: Clicker"
+  },
+  {
+    "name": "CrickSoftware - Clicker - Palette",
+    "mime": "application/vnd.crick.clicker.palette",
+    "ext": ".clkp",
+    "details": "IANA: Clicker"
+  },
+  {
+    "name": "CrickSoftware - Clicker - Template",
+    "mime": "application/vnd.crick.clicker.template",
+    "ext": ".clkt",
+    "details": "IANA: Clicker"
+  },
+  {
+    "name": "CrickSoftware - Clicker - Wordbank",
+    "mime": "application/vnd.crick.clicker.wordbank",
+    "ext": ".clkw",
+    "details": "IANA: Clicker"
+  },
+  {
+    "name": "Critical Tools - PERT Chart EXPERT",
+    "mime": "application/vnd.criticaltools.wbs+xml",
+    "ext": ".wbs",
+    "details": "IANA: Critical Tools"
+  },
+  {
+    "name": "CryptoNote",
+    "mime": "application/vnd.rig.cryptonote",
+    "ext": ".cryptonote",
+    "details": "IANA: CryptoNote"
+  },
+  {
+    "name": "Crystallographic Interchange Format",
+    "mime": "chemical/x-cif",
+    "ext": ".cif",
+    "details": "Crystallographic Interchange Format"
+  },
+  {
+    "name": "CrystalMaker Data Format",
+    "mime": "chemical/x-cmdf",
+    "ext": ".cmdf",
+    "details": "CrystalMaker Data Format"
+  },
+  {
+    "name": "CU-SeeMe",
+    "mime": "application/cu-seeme",
+    "ext": ".cu",
+    "details": "White Pine"
+  },
+  {
+    "name": "CU-Writer",
+    "mime": "application/prs.cww",
+    "ext": ".cww",
+    "details": ""
+  },
+  {
+    "name": "Curl - Applet",
+    "mime": "text/vnd.curl",
+    "ext": ".curl",
+    "details": "Curl Applet"
+  },
+  {
+    "name": "Curl - Detached Applet",
+    "mime": "text/vnd.curl.dcurl",
+    "ext": ".dcurl",
+    "details": "Curl Detached Applet"
+  },
+  {
+    "name": "Curl - Manifest File",
+    "mime": "text/vnd.curl.mcurl",
+    "ext": ".mcurl",
+    "details": "Curl Manifest File"
+  },
+  {
+    "name": "Curl - Source Code",
+    "mime": "text/vnd.curl.scurl",
+    "ext": ".scurl",
+    "details": "Curl Source Code"
+  },
+  {
+    "name": "CURL Applet",
+    "mime": "application/vnd.curl.car",
+    "ext": ".car",
+    "details": "IANA: CURL Applet"
+  },
+  {
+    "name": "CURL Applet",
+    "mime": "application/vnd.curl.pcurl",
+    "ext": ".pcurl",
+    "details": "IANA: CURL Applet"
+  },
+  {
+    "name": "CustomMenu",
+    "mime": "application/vnd.yellowriver-custom-menu",
+    "ext": ".cmp",
+    "details": "IANA: CustomMenu"
+  },
+  {
+    "name": "Data Structure for the Security Suitability of Cryptographic Algorithms",
+    "mime": "application/dssc+der",
+    "ext": ".dssc",
+    "details": "RFC 5698"
+  },
+  {
+    "name": "Data Structure for the Security Suitability of Cryptographic Algorithms",
+    "mime": "application/dssc+xml",
+    "ext": ".xdssc",
+    "details": "RFC 5698"
+  },
+  {
+    "name": "Debian Package",
+    "mime": "application/x-debian-package",
+    "ext": ".deb",
+    "details": "Wikipedia: Debian Package"
+  },
+  {
+    "name": "DECE Audio",
+    "mime": "audio/vnd.dece.audio",
+    "ext": ".uva",
+    "details": "IANA: Dece Audio"
+  },
+  {
+    "name": "DECE Graphic",
+    "mime": "image/vnd.dece.graphic",
+    "ext": ".uvi",
+    "details": "IANA: DECE Graphic"
+  },
+  {
+    "name": "DECE High Definition Video",
+    "mime": "video/vnd.dece.hd",
+    "ext": ".uvh",
+    "details": "IANA: DECE HD Video"
+  },
+  {
+    "name": "DECE Mobile Video",
+    "mime": "video/vnd.dece.mobile",
+    "ext": ".uvm",
+    "details": "IANA: DECE Mobile Video"
+  },
+  {
+    "name": "DECE MP4",
+    "mime": "video/vnd.uvvu.mp4",
+    "ext": ".uvu",
+    "details": "IANA: DECE MP4"
+  },
+  {
+    "name": "DECE PD Video",
+    "mime": "video/vnd.dece.pd",
+    "ext": ".uvp",
+    "details": "IANA: DECE PD Video"
+  },
+  {
+    "name": "DECE SD Video",
+    "mime": "video/vnd.dece.sd",
+    "ext": ".uvs",
+    "details": "IANA: DECE SD Video"
+  },
+  {
+    "name": "DECE Video",
+    "mime": "video/vnd.dece.video",
+    "ext": ".uvv",
+    "details": "IANA: DECE Video"
+  },
+  {
+    "name": "Device Independent File Format (DVI)",
+    "mime": "application/x-dvi",
+    "ext": ".dvi",
+    "details": "Wikipedia: DVI"
+  },
+  {
+    "name": "Digital Siesmograph Networks - SEED Datafiles",
+    "mime": "application/vnd.fdsn.seed",
+    "ext": ".seed",
+    "details": "IANA: SEED"
+  },
+  {
+    "name": "Digital Talking Book",
+    "mime": "application/x-dtbook+xml",
+    "ext": ".dtb",
+    "details": "Wikipedia: EPUB"
+  },
+  {
+    "name": "Digital Talking Book - Resource File",
+    "mime": "application/x-dtbresource+xml",
+    "ext": ".res",
+    "details": "Digital Talking Book"
+  },
+  {
+    "name": "Digital Video Broadcasting",
+    "mime": "application/vnd.dvb.ait",
+    "ext": ".ait",
+    "details": "IANA: Digital Video Broadcasting"
+  },
+  {
+    "name": "Digital Video Broadcasting",
+    "mime": "application/vnd.dvb.service",
+    "ext": ".svc",
+    "details": "IANA: Digital Video Broadcasting"
+  },
+  {
+    "name": "Digital Winds Music",
+    "mime": "audio/vnd.digital-winds",
+    "ext": ".eol",
+    "details": "IANA: Digital Winds"
+  },
+  {
+    "name": "DjVu",
+    "mime": "image/vnd.djvu",
+    "ext": ".djvu",
+    "details": "Wikipedia: DjVu"
+  },
+  {
+    "name": "Document Type Definition",
+    "mime": "application/xml-dtd",
+    "ext": ".dtd",
+    "details": "W3C DTD"
+  },
+  {
+    "name": "Dolby Meridian Lossless Packing",
+    "mime": "application/vnd.dolby.mlp",
+    "ext": ".mlp",
+    "details": "IANA: Dolby Meridian Lossless Packing"
+  },
+  {
+    "name": "Doom Video Game",
+    "mime": "application/x-doom",
+    "ext": ".wad",
+    "details": "Wikipedia: Doom WAD"
+  },
+  {
+    "name": "DPGraph",
+    "mime": "application/vnd.dpgraph",
+    "ext": ".dpg",
+    "details": "IANA: DPGraph"
+  },
+  {
+    "name": "DRA Audio",
+    "mime": "audio/vnd.dra",
+    "ext": ".dra",
+    "details": "IANA: DRA"
+  },
+  {
+    "name": "DreamFactory",
+    "mime": "application/vnd.dreamfactory",
+    "ext": ".dfac",
+    "details": "IANA: DreamFactory"
+  },
+  {
+    "name": "DTS Audio",
+    "mime": "audio/vnd.dts",
+    "ext": ".dts",
+    "details": "IANA: DTS"
+  },
+  {
+    "name": "DTS High Definition Audio",
+    "mime": "audio/vnd.dts.hd",
+    "ext": ".dtshd",
+    "details": "IANA: DTS HD"
+  },
+  {
+    "name": "DWG Drawing",
+    "mime": "image/vnd.dwg",
+    "ext": ".dwg",
+    "details": "Wikipedia: DWG"
+  },
+  {
+    "name": "DynaGeo",
+    "mime": "application/vnd.dynageo",
+    "ext": ".geo",
+    "details": "IANA: DynaGeo"
+  },
+  {
+    "name": "ECMAScript",
+    "mime": "application/ecmascript",
+    "ext": ".es",
+    "details": "ECMA-357"
+  },
+  {
+    "name": "EcoWin Chart",
+    "mime": "application/vnd.ecowin.chart",
+    "ext": ".mag",
+    "details": "IANA: EcoWin Chart"
+  },
+  {
+    "name": "EDMICS 2000",
+    "mime": "image/vnd.fujixerox.edmics-mmr",
+    "ext": ".mmr",
+    "details": "IANA: EDMICS 2000"
+  },
+  {
+    "name": "EDMICS 2000",
+    "mime": "image/vnd.fujixerox.edmics-rlc",
+    "ext": ".rlc",
+    "details": "IANA: EDMICS 2000"
+  },
+  {
+    "name": "Efficient XML Interchange",
+    "mime": "application/exi",
+    "ext": ".exi",
+    "details": "Efficient XML Interchange (EXI) Best Practices"
+  },
+  {
+    "name": "EFI Proteus",
+    "mime": "application/vnd.proteus.magazine",
+    "ext": ".mgz",
+    "details": "IANA: EFI Proteus"
+  },
+  {
+    "name": "Electronic Publication",
+    "mime": "application/epub+zip",
+    "ext": ".epub",
+    "details": "Wikipedia: EPUB"
+  },
+  {
+    "name": "Email Message",
+    "mime": "message/rfc822",
+    "ext": ".eml",
+    "details": "RFC 2822"
+  },
+  {
+    "name": "Enliven Viewer",
+    "mime": "application/vnd.enliven",
+    "ext": ".nml",
+    "details": "IANA: Enliven Viewer"
+  },
+  {
+    "name": "Express by Infoseek",
+    "mime": "application/vnd.is-xpr",
+    "ext": ".xpr",
+    "details": "IANA: Express by Infoseek"
+  },
+  {
+    "name": "eXtended Image File Format (XIFF)",
+    "mime": "image/vnd.xiff",
+    "ext": ".xif",
+    "details": "IANA: XIFF"
+  },
+  {
+    "name": "Extensible Forms Description Language",
+    "mime": "application/vnd.xfdl",
+    "ext": ".xfdl",
+    "details": "IANA: Extensible Forms Description Language"
+  },
+  {
+    "name": "Extensible MultiModal Annotation",
+    "mime": "application/emma+xml",
+    "ext": ".emma",
+    "details": "EMMA: Extensible MultiModal Annotation markup language"
+  },
+  {
+    "name": "EZPix Secure Photo Album",
+    "mime": "application/vnd.ezpix-album",
+    "ext": ".ez2",
+    "details": "IANA: EZPix Secure Photo Album"
+  },
+  {
+    "name": "EZPix Secure Photo Album",
+    "mime": "application/vnd.ezpix-package",
+    "ext": ".ez3",
+    "details": "IANA: EZPix Secure Photo Album"
+  },
+  {
+    "name": "FAST Search & Transfer ASA",
+    "mime": "image/vnd.fst",
+    "ext": ".fst",
+    "details": "IANA: FAST Search & Transfer ASA"
+  },
+  {
+    "name": "FAST Search & Transfer ASA",
+    "mime": "video/vnd.fvt",
+    "ext": ".fvt",
+    "details": "IANA: FVT"
+  },
+  {
+    "name": "FastBid Sheet",
+    "mime": "image/vnd.fastbidsheet",
+    "ext": ".fbs",
+    "details": "IANA: FastBid Sheet"
+  },
+  {
+    "name": "FCS Express Layout Link",
+    "mime": "application/vnd.denovo.fcselayout-link",
+    "ext": ".fe_launch",
+    "details": "IANA: FCS Express Layout Link"
+  },
+  {
+    "name": "Flash Video",
+    "mime": "video/x-f4v",
+    "ext": ".f4v",
+    "details": "Wikipedia: Flash Video"
+  },
+  {
+    "name": "Flash Video",
+    "mime": "video/x-flv",
+    "ext": ".flv",
+    "details": "Wikipedia: Flash Video"
+  },
+  {
+    "name": "FlashPix",
+    "mime": "image/vnd.fpx",
+    "ext": ".fpx",
+    "details": "IANA: FPX"
+  },
+  {
+    "name": "FlashPix",
+    "mime": "image/vnd.net-fpx",
+    "ext": ".npx",
+    "details": "IANA: FPX"
+  },
+  {
+    "name": "FLEXSTOR",
+    "mime": "text/vnd.fmi.flexstor",
+    "ext": ".flx",
+    "details": "IANA: FLEXSTOR"
+  },
+  {
+    "name": "FLI/FLC Animation Format",
+    "mime": "video/x-fli",
+    "ext": ".fli",
+    "details": "FLI/FLC Animation Format"
+  },
+  {
+    "name": "FluxTime Clip",
+    "mime": "application/vnd.fluxtime.clip",
+    "ext": ".ftc",
+    "details": "IANA: FluxTime Clip"
+  },
+  {
+    "name": "Forms Data Format",
+    "mime": "application/vnd.fdf",
+    "ext": ".fdf",
+    "details": "IANA: Forms Data Format"
+  },
+  {
+    "name": "Fortran Source File",
+    "mime": "text/x-fortran",
+    "ext": ".f",
+    "details": "Wikipedia: Fortran"
+  },
+  {
+    "name": "FrameMaker Interchange Format",
+    "mime": "application/vnd.mif",
+    "ext": ".mif",
+    "details": "IANA: FrameMaker Interchange Format"
+  },
+  {
+    "name": "FrameMaker Normal Format",
+    "mime": "application/vnd.framemaker",
+    "ext": ".fm",
+    "details": "IANA: FrameMaker"
+  },
+  {
+    "name": "FreeHand MX",
+    "mime": "image/x-freehand",
+    "ext": ".fh",
+    "details": "Wikipedia: Macromedia Freehand"
+  },
+  {
+    "name": "Friendly Software Corporation",
+    "mime": "application/vnd.fsc.weblaunch",
+    "ext": ".fsc",
+    "details": "IANA: Friendly Software Corporation"
+  },
+  {
+    "name": "Frogans Player",
+    "mime": "application/vnd.frogans.fnc",
+    "ext": ".fnc",
+    "details": "IANA: Frogans Player"
+  },
+  {
+    "name": "Frogans Player",
+    "mime": "application/vnd.frogans.ltf",
+    "ext": ".ltf",
+    "details": "IANA: Frogans Player"
+  },
+  {
+    "name": "Fujitsu - Xerox 2D CAD Data",
+    "mime": "application/vnd.fujixerox.ddd",
+    "ext": ".ddd",
+    "details": "IANA: Fujitsu DDD"
+  },
+  {
+    "name": "Fujitsu - Xerox DocuWorks",
+    "mime": "application/vnd.fujixerox.docuworks",
+    "ext": ".xdw",
+    "details": "IANA: Docuworks"
+  },
+  {
+    "name": "Fujitsu - Xerox DocuWorks Binder",
+    "mime": "application/vnd.fujixerox.docuworks.binder",
+    "ext": ".xbd",
+    "details": "IANA: Docuworks Binder"
+  },
+  {
+    "name": "Fujitsu Oasys",
+    "mime": "application/vnd.fujitsu.oasys",
+    "ext": ".oas",
+    "details": "IANA: Fujitsu Oasys"
+  },
+  {
+    "name": "Fujitsu Oasys",
+    "mime": "application/vnd.fujitsu.oasys2",
+    "ext": ".oa2",
+    "details": "IANA: Fujitsu Oasys"
+  },
+  {
+    "name": "Fujitsu Oasys",
+    "mime": "application/vnd.fujitsu.oasys3",
+    "ext": ".oa3",
+    "details": "IANA: Fujitsu Oasys"
+  },
+  {
+    "name": "Fujitsu Oasys",
+    "mime": "application/vnd.fujitsu.oasysgp",
+    "ext": ".fg5",
+    "details": "IANA: Fujitsu Oasys"
+  },
+  {
+    "name": "Fujitsu Oasys",
+    "mime": "application/vnd.fujitsu.oasysprs",
+    "ext": ".bh2",
+    "details": "IANA: Fujitsu Oasys"
+  },
+  {
+    "name": "FutureSplash Animator",
+    "mime": "application/x-futuresplash",
+    "ext": ".spl",
+    "details": "Wikipedia: FutureSplash Animator"
+  },
+  {
+    "name": "FuzzySheet",
+    "mime": "application/vnd.fuzzysheet",
+    "ext": ".fzs",
+    "details": "IANA: FuzySheet"
+  },
+  {
+    "name": "G3 Fax Image",
+    "mime": "image/g3fax",
+    "ext": ".g3",
+    "details": "Wikipedia: G3 Fax Image"
+  },
+  {
+    "name": "GameMaker ActiveX",
+    "mime": "application/vnd.gmx",
+    "ext": ".gmx",
+    "details": "IANA: GameMaker ActiveX"
+  },
+  {
+    "name": "Gen-Trix Studio",
+    "mime": "model/vnd.gtw",
+    "ext": ".gtw",
+    "details": "IANA: GTW"
+  },
+  {
+    "name": "Genomatix Tuxedo Framework",
+    "mime": "application/vnd.genomatix.tuxedo",
+    "ext": ".txd",
+    "details": "IANA: Genomatix Tuxedo Framework"
+  },
+  {
+    "name": "GeoGebra",
+    "mime": "application/vnd.geogebra.file",
+    "ext": ".ggb",
+    "details": "IANA: GeoGebra"
+  },
+  {
+    "name": "GeoGebra",
+    "mime": "application/vnd.geogebra.tool",
+    "ext": ".ggt",
+    "details": "IANA: GeoGebra"
+  },
+  {
+    "name": "Geometric Description Language (GDL)",
+    "mime": "model/vnd.gdl",
+    "ext": ".gdl",
+    "details": "IANA: GDL"
+  },
+  {
+    "name": "GeoMetry Explorer",
+    "mime": "application/vnd.geometry-explorer",
+    "ext": ".gex",
+    "details": "IANA: GeoMetry Explorer"
+  },
+  {
+    "name": "GEONExT and JSXGraph",
+    "mime": "application/vnd.geonext",
+    "ext": ".gxt",
+    "details": "IANA: GEONExT and JSXGraph"
+  },
+  {
+    "name": "GeoplanW",
+    "mime": "application/vnd.geoplan",
+    "ext": ".g2w",
+    "details": "IANA: GeoplanW"
+  },
+  {
+    "name": "GeospacW",
+    "mime": "application/vnd.geospace",
+    "ext": ".g3w",
+    "details": "IANA: GeospacW"
+  },
+  {
+    "name": "Ghostscript Font",
+    "mime": "application/x-font-ghostscript",
+    "ext": ".gsf",
+    "details": "Wikipedia: Ghostscript"
+  },
+  {
+    "name": "Glyph Bitmap Distribution Format",
+    "mime": "application/x-font-bdf",
+    "ext": ".bdf",
+    "details": "Wikipedia: Glyph Bitmap Distribution Format"
+  },
+  {
+    "name": "GNU Tar Files",
+    "mime": "application/x-gtar",
+    "ext": ".gtar",
+    "details": "GNU Tar"
+  },
+  {
+    "name": "GNU Texinfo Document",
+    "mime": "application/x-texinfo",
+    "ext": ".texinfo",
+    "details": "Wikipedia: Texinfo"
+  },
+  {
+    "name": "Gnumeric",
+    "mime": "application/x-gnumeric",
+    "ext": ".gnumeric",
+    "details": "Wikipedia: Gnumeric"
+  },
+  {
+    "name": "Google Earth - KML",
+    "mime": "application/vnd.google-earth.kml+xml",
+    "ext": ".kml",
+    "details": "IANA: Google Earth"
+  },
+  {
+    "name": "Google Earth - Zipped KML",
+    "mime": "application/vnd.google-earth.kmz",
+    "ext": ".kmz",
+    "details": "IANA: Google Earth"
+  },
+  {
+    "name": "GPS eXchange Format",
+    "mime": "application/gpx+xml",
+    "ext": ".gpx",
+    "details": "GPS eXchange Format"
+  },
+  {
+    "name": "GrafEq",
+    "mime": "application/vnd.grafeq",
+    "ext": ".gqf",
+    "details": "IANA: GrafEq"
+  },
+  {
+    "name": "Graphics Interchange Format",
+    "mime": "image/gif",
+    "ext": ".gif",
+    "details": "Wikipedia: Graphics Interchange Format"
+  },
+  {
+    "name": "Graphviz",
+    "mime": "text/vnd.graphviz",
+    "ext": ".gv",
+    "details": "IANA: Graphviz"
+  },
+  {
+    "name": "Groove - Account",
+    "mime": "application/vnd.groove-account",
+    "ext": ".gac",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Help",
+    "mime": "application/vnd.groove-help",
+    "ext": ".ghf",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Identity Message",
+    "mime": "application/vnd.groove-identity-message",
+    "ext": ".gim",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Injector",
+    "mime": "application/vnd.groove-injector",
+    "ext": ".grv",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Tool Message",
+    "mime": "application/vnd.groove-tool-message",
+    "ext": ".gtm",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Tool Template",
+    "mime": "application/vnd.groove-tool-template",
+    "ext": ".tpl",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "Groove - Vcard",
+    "mime": "application/vnd.groove-vcard",
+    "ext": ".vcg",
+    "details": "IANA: Groove"
+  },
+  {
+    "name": "GZip",
+    "mime": "application/gzip",
+    "ext": ".gz",
+    "details": "Wikipedia: GZip"
+  },
+  {
+    "name": "H.261",
+    "mime": "video/h261",
+    "ext": ".h261",
+    "details": "Wikipedia: H.261"
+  },
+  {
+    "name": "H.263",
+    "mime": "video/h263",
+    "ext": ".h263",
+    "details": "Wikipedia: H.263"
+  },
+  {
+    "name": "H.264",
+    "mime": "video/h264",
+    "ext": ".h264",
+    "details": "Wikipedia: H.264"
+  },
+  {
+    "name": "Hewlett Packard Instant Delivery",
+    "mime": "application/vnd.hp-hpid",
+    "ext": ".hpid",
+    "details": "IANA: Hewlett Packard Instant Delivery"
+  },
+  {
+    "name": "Hewlett-Packard's WebPrintSmart",
+    "mime": "application/vnd.hp-hps",
+    "ext": ".hps",
+    "details": "IANA: Hewlett-Packard's WebPrintSmart"
+  },
+  {
+    "name": "Hierarchical Data Format",
+    "mime": "application/x-hdf",
+    "ext": ".hdf",
+    "details": "Wikipedia: Hierarchical Data Format"
+  },
+  {
+    "name": "Hit'n'Mix",
+    "mime": "audio/vnd.rip",
+    "ext": ".rip",
+    "details": "IANA: Hit'n'Mix"
+  },
+  {
+    "name": "Homebanking Computer Interface (HBCI)",
+    "mime": "application/vnd.hbci",
+    "ext": ".hbci",
+    "details": "IANA: HBCI"
+  },
+  {
+    "name": "HP Indigo Digital Press - Job Layout Languate",
+    "mime": "application/vnd.hp-jlyt",
+    "ext": ".jlt",
+    "details": "IANA: HP Job Layout Language"
+  },
+  {
+    "name": "HP Printer Command Language",
+    "mime": "application/vnd.hp-pcl",
+    "ext": ".pcl",
+    "details": "IANA: HP Printer Command Language"
+  },
+  {
+    "name": "HP-GL/2 and HP RTL",
+    "mime": "application/vnd.hp-hpgl",
+    "ext": ".hpgl",
+    "details": "IANA: HP-GL/2 and HP RTL"
+  },
+  {
+    "name": "HV Script",
+    "mime": "application/vnd.yamaha.hv-script",
+    "ext": ".hvs",
+    "details": "IANA: HV Script"
+  },
+  {
+    "name": "HV Voice Dictionary",
+    "mime": "application/vnd.yamaha.hv-dic",
+    "ext": ".hvd",
+    "details": "IANA: HV Voice Dictionary"
+  },
+  {
+    "name": "HV Voice Parameter",
+    "mime": "application/vnd.yamaha.hv-voice",
+    "ext": ".hvp",
+    "details": "IANA: HV Voice Parameter"
+  },
+  {
+    "name": "Hydrostatix Master Suite",
+    "mime": "application/vnd.hydrostatix.sof-data",
+    "ext": ".sfd-hdstx",
+    "details": "IANA: Hydrostatix Master Suite"
+  },
+  {
+    "name": "Hyperstudio",
+    "mime": "application/hyperstudio",
+    "ext": ".stk",
+    "details": "IANA - Hyperstudio"
+  },
+  {
+    "name": "Hypertext Application Language",
+    "mime": "application/vnd.hal+xml",
+    "ext": ".hal",
+    "details": "IANA: HAL"
+  },
+  {
+    "name": "HyperText Markup Language (HTML)",
+    "mime": "text/html",
+    "ext": ".html",
+    "details": "Wikipedia: HTML"
+  },
+  {
+    "name": "IBM DB2 Rights Manager",
+    "mime": "application/vnd.ibm.rights-management",
+    "ext": ".irm",
+    "details": "IANA: IBM DB2 Rights Manager"
+  },
+  {
+    "name": "IBM Electronic Media Management System - Secure Container",
+    "mime": "application/vnd.ibm.secure-container",
+    "ext": ".sc",
+    "details": "IANA: EMMS"
+  },
+  {
+    "name": "iCalendar",
+    "mime": "text/calendar",
+    "ext": ".ics",
+    "details": "Wikipedia: iCalendar"
+  },
+  {
+    "name": "ICC profile",
+    "mime": "application/vnd.iccprofile",
+    "ext": ".icc",
+    "details": "IANA: ICC profile"
+  },
+  {
+    "name": "Icon Image",
+    "mime": "image/x-icon",
+    "ext": ".ico",
+    "details": "Wikipedia: ICO File Format"
+  },
+  {
+    "name": "igLoader",
+    "mime": "application/vnd.igloader",
+    "ext": ".igl",
+    "details": "IANA: igLoader"
+  },
+  {
+    "name": "Image Exchange Format",
+    "mime": "image/ief",
+    "ext": ".ief",
+    "details": "RFC 1314"
+  },
+  {
+    "name": "ImmerVision PURE Players",
+    "mime": "application/vnd.immervision-ivp",
+    "ext": ".ivp",
+    "details": "IANA: ImmerVision PURE Players"
+  },
+  {
+    "name": "ImmerVision PURE Players",
+    "mime": "application/vnd.immervision-ivu",
+    "ext": ".ivu",
+    "details": "IANA: ImmerVision PURE Players"
+  },
+  {
+    "name": "IMS Networks",
+    "mime": "application/reginfo+xml",
+    "ext": ".rif",
+    "details": ""
+  },
+  {
+    "name": "In3D - 3DML",
+    "mime": "text/vnd.in3d.3dml",
+    "ext": ".3dml",
+    "details": "IANA: In3D"
+  },
+  {
+    "name": "In3D - 3DML",
+    "mime": "text/vnd.in3d.spot",
+    "ext": ".spot",
+    "details": "IANA: In3D"
+  },
+  {
+    "name": "Initial Graphics Exchange Specification (IGES)",
+    "mime": "model/iges",
+    "ext": ".igs",
+    "details": "Wikipedia: IGES"
+  },
+  {
+    "name": "Interactive Geometry Software",
+    "mime": "application/vnd.intergeo",
+    "ext": ".i2g",
+    "details": "IANA: Interactive Geometry Software"
+  },
+  {
+    "name": "Interactive Geometry Software Cinderella",
+    "mime": "application/vnd.cinderella",
+    "ext": ".cdy",
+    "details": "IANA: Cinderella"
+  },
+  {
+    "name": "Intercon FormNet",
+    "mime": "application/vnd.intercon.formnet",
+    "ext": ".xpw",
+    "details": "IANA: Intercon FormNet"
+  },
+  {
+    "name": "International Society for Advancement of Cytometry",
+    "mime": "application/vnd.isac.fcs",
+    "ext": ".fcs",
+    "details": "IANA: International Society for Advancement of Cytometry"
+  },
+  {
+    "name": "Internet Protocol Flow Information Export",
+    "mime": "application/ipfix",
+    "ext": ".ipfix",
+    "details": "RFC 3917"
+  },
+  {
+    "name": "Internet Public Key Infrastructure - Certificate",
+    "mime": "application/pkix-cert",
+    "ext": ".cer",
+    "details": "RFC 2585"
+  },
+  {
+    "name": "Internet Public Key Infrastructure - Certificate Management Protocole",
+    "mime": "application/pkixcmp",
+    "ext": ".pki",
+    "details": "RFC 2585"
+  },
+  {
+    "name": "Internet Public Key Infrastructure - Certificate Revocation Lists",
+    "mime": "application/pkix-crl",
+    "ext": ".crl",
+    "details": "RFC 2585"
+  },
+  {
+    "name": "Internet Public Key Infrastructure - Certification Path",
+    "mime": "application/pkix-pkipath",
+    "ext": ".pkipath",
+    "details": "RFC 2585"
+  },
+  {
+    "name": "IOCOM Visimeet",
+    "mime": "application/vnd.insors.igm",
+    "ext": ".igm",
+    "details": "IANA: IOCOM Visimeet"
+  },
+  {
+    "name": "IP Unplugged Roaming Client",
+    "mime": "application/vnd.ipunplugged.rcprofile",
+    "ext": ".rcprofile",
+    "details": "IANA: IP Unplugged Roaming Client"
+  },
+  {
+    "name": "iRepository / Lucidoc Editor",
+    "mime": "application/vnd.irepository.package+xml",
+    "ext": ".irp",
+    "details": "IANA: iRepository / Lucidoc Editor"
+  },
+  {
+    "name": "J2ME App Descriptor",
+    "mime": "text/vnd.sun.j2me.app-descriptor",
+    "ext": ".jad",
+    "details": "IANA: J2ME App Descriptor"
+  },
+  {
+    "name": "Java Archive",
+    "mime": "application/java-archive",
+    "ext": ".jar",
+    "details": "Wikipedia: JAR file format"
+  },
+  {
+    "name": "Java Bytecode File",
+    "mime": "application/java-vm",
+    "ext": ".class",
+    "details": "Wikipedia: Java Bytecode"
+  },
+  {
+    "name": "Java Network Launching Protocol",
+    "mime": "application/x-java-jnlp-file",
+    "ext": ".jnlp",
+    "details": "Wikipedia: Java Web Start"
+  },
+  {
+    "name": "Java Serialized Object",
+    "mime": "application/java-serialized-object",
+    "ext": ".ser",
+    "details": "Java Serialization API"
+  },
+  {
+    "name": "Java Source File",
+    "mime": "text/x-java-source,java",
+    "ext": ".java",
+    "details": "Wikipedia: Java"
+  },
+  {
+    "name": "JavaScript",
+    "mime": "application/javascript",
+    "ext": ".js",
+    "details": "JavaScript"
+  },
+  {
+    "name": "JavaScript Module",
+    "mime": "text/javascript",
+    "ext": ".mjs",
+    "details": "Wikipedia: Javascript"
+  },
+  {
+    "name": "JavaScript Module",
+    "mime": "text/javascript",
+    "ext": ".mjs",
+    "details": "ECMAScript modules"
+  },
+  {
+    "name": "JavaScript Object Notation (JSON)",
+    "mime": "application/json",
+    "ext": ".json",
+    "details": "Wikipedia: JSON"
+  },
+  {
+    "name": "Joda Archive",
+    "mime": "application/vnd.joost.joda-archive",
+    "ext": ".joda",
+    "details": "IANA: Joda Archive"
+  },
+  {
+    "name": "JPEG 2000 Compound Image File Format",
+    "mime": "video/jpm",
+    "ext": ".jpm",
+    "details": "IANA: JPM"
+  },
+  {
+    "name": "JPEG Image",
+    "mime": "image/jpeg",
+    "ext": ".jpg",
+    "details": "RFC 1314"
+  },
+  {
+    "name": "JPEG Image (Citrix client)",
+    "mime": "image/x-citrix-jpeg",
+    "ext": "..jpg",
+    "details": "RFC 1314"
+  },
+  {
+    "name": "JPEG Image (Progressive)",
+    "mime": "image/pjpeg",
+    "ext": ".pjpeg",
+    "details": "JPEG image compression FAQ"
+  },
+  {
+    "name": "JPGVideo",
+    "mime": "video/jpeg",
+    "ext": ".jpgv",
+    "details": "RFC 3555"
+  },
+  {
+    "name": "JSON - Linked Data",
+    "mime": "application/ld+json",
+    "ext": ".jsonld",
+    "details": "Wikipedia: JSON-LD"
+  },
+  {
+    "name": "Kahootz",
+    "mime": "application/vnd.kahootz",
+    "ext": ".ktz",
+    "details": "IANA: Kahootz"
+  },
+  {
+    "name": "Karaoke on Chipnuts Chipsets",
+    "mime": "application/vnd.chipnuts.karaoke-mmd",
+    "ext": ".mmd",
+    "details": "IANA: Chipnuts Karaoke"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Karbon",
+    "mime": "application/vnd.kde.karbon",
+    "ext": ".karbon",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - KChart",
+    "mime": "application/vnd.kde.kchart",
+    "ext": ".chrt",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kformula",
+    "mime": "application/vnd.kde.kformula",
+    "ext": ".kfo",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kivio",
+    "mime": "application/vnd.kde.kivio",
+    "ext": ".flw",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kontour",
+    "mime": "application/vnd.kde.kontour",
+    "ext": ".kon",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kpresenter",
+    "mime": "application/vnd.kde.kpresenter",
+    "ext": ".kpr",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kspread",
+    "mime": "application/vnd.kde.kspread",
+    "ext": ".ksp",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "KDE KOffice Office Suite - Kword",
+    "mime": "application/vnd.kde.kword",
+    "ext": ".kwd",
+    "details": "IANA: KDE KOffice Office Suite"
+  },
+  {
+    "name": "Kenamea App",
+    "mime": "application/vnd.kenameaapp",
+    "ext": ".htke",
+    "details": "IANA: Kenamea App"
+  },
+  {
+    "name": "Kidspiration",
+    "mime": "application/vnd.kidspiration",
+    "ext": ".kia",
+    "details": "IANA: Kidspiration"
+  },
+  {
+    "name": "Kinar Applications",
+    "mime": "application/vnd.kinar",
+    "ext": ".kne",
+    "details": "IANA: Kina Applications"
+  },
+  {
+    "name": "Kodak Storyshare",
+    "mime": "application/vnd.kodak-descriptor",
+    "ext": ".sse",
+    "details": "IANA: Kodak Storyshare"
+  },
+  {
+    "name": "Laser App Enterprise",
+    "mime": "application/vnd.las.las+xml",
+    "ext": ".lasxml",
+    "details": "IANA: Laser App Enterprise"
+  },
+  {
+    "name": "LaTeX",
+    "mime": "application/x-latex",
+    "ext": ".latex",
+    "details": "Wikipedia: LaTeX"
+  },
+  {
+    "name": "Life Balance - Desktop Edition",
+    "mime": "application/vnd.llamagraphics.life-balance.desktop",
+    "ext": ".lbd",
+    "details": "IANA: Life Balance"
+  },
+  {
+    "name": "Life Balance - Exchange Format",
+    "mime": "application/vnd.llamagraphics.life-balance.exchange+xml",
+    "ext": ".lbe",
+    "details": "IANA: Life Balance"
+  },
+  {
+    "name": "Lightspeed Audio Lab",
+    "mime": "application/vnd.jam",
+    "ext": ".jam",
+    "details": "IANA: Lightspeed Audio Lab"
+  },
+  {
+    "name": "Lotus 1-2-3",
+    "mime": "application/vnd.lotus-1-2-3",
+    "ext": ".123",
+    "details": "IANA: Lotus 1-2-3"
+  },
+  {
+    "name": "Lotus Approach",
+    "mime": "application/vnd.lotus-approach",
+    "ext": ".apr",
+    "details": "IANA: Lotus Approach"
+  },
+  {
+    "name": "Lotus Freelance",
+    "mime": "application/vnd.lotus-freelance",
+    "ext": ".pre",
+    "details": "IANA: Lotus Freelance"
+  },
+  {
+    "name": "Lotus Notes",
+    "mime": "application/vnd.lotus-notes",
+    "ext": ".nsf",
+    "details": "IANA: Lotus Notes"
+  },
+  {
+    "name": "Lotus Organizer",
+    "mime": "application/vnd.lotus-organizer",
+    "ext": ".org",
+    "details": "IANA: Lotus Organizer"
+  },
+  {
+    "name": "Lotus Screencam",
+    "mime": "application/vnd.lotus-screencam",
+    "ext": ".scm",
+    "details": "IANA: Lotus Screencam"
+  },
+  {
+    "name": "Lotus Wordpro",
+    "mime": "application/vnd.lotus-wordpro",
+    "ext": ".lwp",
+    "details": "IANA: Lotus Wordpro"
+  },
+  {
+    "name": "Lucent Voice",
+    "mime": "audio/vnd.lucent.voice",
+    "ext": ".lvp",
+    "details": "IANA: Lucent Voice"
+  },
+  {
+    "name": "M3U (Multimedia Playlist)",
+    "mime": "audio/x-mpegurl",
+    "ext": ".m3u",
+    "details": "Wikipedia: M3U"
+  },
+  {
+    "name": "M4v",
+    "mime": "video/x-m4v",
+    "ext": ".m4v",
+    "details": "Wikipedia: M4v"
+  },
+  {
+    "name": "Macintosh BinHex 4.0",
+    "mime": "application/mac-binhex40",
+    "ext": ".hqx",
+    "details": "MacMIME"
+  },
+  {
+    "name": "MacPorts Port System",
+    "mime": "application/vnd.macports.portpkg",
+    "ext": ".portpkg",
+    "details": "IANA: MacPorts Port System"
+  },
+  {
+    "name": "MapGuide DBXML",
+    "mime": "application/vnd.osgeo.mapguide.package",
+    "ext": ".mgp",
+    "details": "IANA: MapGuide DBXML"
+  },
+  {
+    "name": "MARC Formats",
+    "mime": "application/marc",
+    "ext": ".mrc",
+    "details": "RFC 2220"
+  },
+  {
+    "name": "MARC21 XML Schema",
+    "mime": "application/marcxml+xml",
+    "ext": ".mrcx",
+    "details": "RFC 6207"
+  },
+  {
+    "name": "Material Exchange Format",
+    "mime": "application/mxf",
+    "ext": ".mxf",
+    "details": "RFC 4539"
+  },
+  {
+    "name": "Mathematica Notebook Player",
+    "mime": "application/vnd.wolfram.player",
+    "ext": ".nbp",
+    "details": "IANA: Mathematica Notebook Player"
+  },
+  {
+    "name": "Mathematica Notebooks",
+    "mime": "application/mathematica",
+    "ext": ".ma",
+    "details": "IANA - Mathematica"
+  },
+  {
+    "name": "Mathematical Markup Language",
+    "mime": "application/mathml+xml",
+    "ext": ".mathml",
+    "details": "W3C Math Home"
+  },
+  {
+    "name": "Mbox database files",
+    "mime": "application/mbox",
+    "ext": ".mbox",
+    "details": "RFC 4155"
+  },
+  {
+    "name": "MedCalc",
+    "mime": "application/vnd.medcalcdata",
+    "ext": ".mc1",
+    "details": "IANA: MedCalc"
+  },
+  {
+    "name": "Media Server Control Markup Language",
+    "mime": "application/mediaservercontrol+xml",
+    "ext": ".mscml",
+    "details": "RFC 5022"
+  },
+  {
+    "name": "MediaRemote",
+    "mime": "application/vnd.mediastation.cdkey",
+    "ext": ".cdkey",
+    "details": "IANA: MediaRemote"
+  },
+  {
+    "name": "Medical Waveform Encoding Format",
+    "mime": "application/vnd.mfer",
+    "ext": ".mwf",
+    "details": "IANA: Medical Waveform Encoding Format"
+  },
+  {
+    "name": "Melody Format for Mobile Platform",
+    "mime": "application/vnd.mfmp",
+    "ext": ".mfm",
+    "details": "IANA: Melody Format for Mobile Platform"
+  },
+  {
+    "name": "Mesh Data Type",
+    "mime": "model/mesh",
+    "ext": ".msh",
+    "details": "RFC 2077"
+  },
+  {
+    "name": "Metadata Authority  Description Schema",
+    "mime": "application/mads+xml",
+    "ext": ".mads",
+    "details": "RFC 6207"
+  },
+  {
+    "name": "Metadata Encoding and Transmission Standard",
+    "mime": "application/mets+xml",
+    "ext": ".mets",
+    "details": "RFC 6207"
+  },
+  {
+    "name": "Metadata Object Description Schema",
+    "mime": "application/mods+xml",
+    "ext": ".mods",
+    "details": "RFC 6207"
+  },
+  {
+    "name": "Metalink",
+    "mime": "application/metalink4+xml",
+    "ext": ".meta4",
+    "details": "Wikipedia: Metalink"
+  },
+  {
+    "name": "Micro CADAM Helix D&D",
+    "mime": "application/vnd.mcd",
+    "ext": ".mcd",
+    "details": "IANA: Micro CADAM Helix D&D"
+  },
+  {
+    "name": "Micrografx",
+    "mime": "application/vnd.micrografx.flo",
+    "ext": ".flo",
+    "details": "IANA: Micrografx"
+  },
+  {
+    "name": "Micrografx iGrafx Professional",
+    "mime": "application/vnd.micrografx.igx",
+    "ext": ".igx",
+    "details": "IANA: Micrografx"
+  },
+  {
+    "name": "MICROSEC e-Szignï¿½",
+    "mime": "application/vnd.eszigno3+xml",
+    "ext": ".es3",
+    "details": "IANA: MICROSEC e-Szignï¿½"
+  },
+  {
+    "name": "Microsoft Access",
+    "mime": "application/x-msaccess",
+    "ext": ".mdb",
+    "details": "Wikipedia: Microsoft Access"
+  },
+  {
+    "name": "Microsoft Advanced Systems Format (ASF)",
+    "mime": "video/x-ms-asf",
+    "ext": ".asf",
+    "details": "Wikipedia: Advanced Systems Format (ASF)"
+  },
+  {
+    "name": "Microsoft Application",
+    "mime": "application/x-msdownload",
+    "ext": ".exe",
+    "details": "Wikipedia: EXE"
+  },
+  {
+    "name": "Microsoft Artgalry",
+    "mime": "application/vnd.ms-artgalry",
+    "ext": ".cil",
+    "details": "IANA: MS Artgalry"
+  },
+  {
+    "name": "Microsoft Cabinet File",
+    "mime": "application/vnd.ms-cab-compressed",
+    "ext": ".cab",
+    "details": "IANA: MS Cabinet File"
+  },
+  {
+    "name": "Microsoft Class Server",
+    "mime": "application/vnd.ms-ims",
+    "ext": ".ims",
+    "details": "IANA: MS Class Server"
+  },
+  {
+    "name": "Microsoft ClickOnce",
+    "mime": "application/x-ms-application",
+    "ext": ".application",
+    "details": "Wikipedia: ClickOnce"
+  },
+  {
+    "name": "Microsoft Clipboard Clip",
+    "mime": "application/x-msclip",
+    "ext": ".clp",
+    "details": "Wikipedia: Clipboard"
+  },
+  {
+    "name": "Microsoft Document Imaging Format",
+    "mime": "image/vnd.ms-modi",
+    "ext": ".mdi",
+    "details": "Wikipedia: Microsoft Document Image Format"
+  },
+  {
+    "name": "Microsoft Embedded OpenType",
+    "mime": "application/vnd.ms-fontobject",
+    "ext": ".eot",
+    "details": "IANA: MS Embedded OpenType"
+  },
+  {
+    "name": "Microsoft Excel",
+    "mime": "application/vnd.ms-excel",
+    "ext": ".xls",
+    "details": "IANA: MS Excel"
+  },
+  {
+    "name": "Microsoft Excel - Add-In File",
+    "mime": "application/vnd.ms-excel.addin.macroenabled.12",
+    "ext": ".xlam",
+    "details": "IANA: MS Excel"
+  },
+  {
+    "name": "Microsoft Excel - Binary Workbook",
+    "mime": "application/vnd.ms-excel.sheet.binary.macroenabled.12",
+    "ext": ".xlsb",
+    "details": "IANA: MS Excel"
+  },
+  {
+    "name": "Microsoft Excel - Macro-Enabled Template File",
+    "mime": "application/vnd.ms-excel.template.macroenabled.12",
+    "ext": ".xltm",
+    "details": "IANA: MS Excel"
+  },
+  {
+    "name": "Microsoft Excel - Macro-Enabled Workbook",
+    "mime": "application/vnd.ms-excel.sheet.macroenabled.12",
+    "ext": ".xlsm",
+    "details": "IANA: MS Excel"
+  },
+  {
+    "name": "Microsoft Html Help File",
+    "mime": "application/vnd.ms-htmlhelp",
+    "ext": ".chm",
+    "details": "IANA:MS Html Help File"
+  },
+  {
+    "name": "Microsoft Information Card",
+    "mime": "application/x-mscardfile",
+    "ext": ".crd",
+    "details": "Wikipedia: Information Card"
+  },
+  {
+    "name": "Microsoft Learning Resource Module",
+    "mime": "application/vnd.ms-lrm",
+    "ext": ".lrm",
+    "details": "IANA: MS Learning Resource Module"
+  },
+  {
+    "name": "Microsoft MediaView",
+    "mime": "application/x-msmediaview",
+    "ext": ".mvb",
+    "details": "Windows Help"
+  },
+  {
+    "name": "Microsoft Money",
+    "mime": "application/x-msmoney",
+    "ext": ".mny",
+    "details": "Wikipedia: Microsoft Money"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Presentation",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "ext": ".pptx",
+    "details": "IANA: OOXML - Presentation"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Presentation (Slide)",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.slide",
+    "ext": ".sldx",
+    "details": "IANA: OOXML - Presentation"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Presentation (Slideshow)",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+    "ext": ".ppsx",
+    "details": "IANA: OOXML - Presentation"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Presentation Template",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.template",
+    "ext": ".potx",
+    "details": "IANA: OOXML - Presentation Template"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Spreadsheet",
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "ext": ".xlsx",
+    "details": "IANA: OOXML - Spreadsheet"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Spreadsheet Template",
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.template",
+    "ext": ".xltx",
+    "details": "IANA: OOXML - Spreadsheet Template"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Word Document",
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "ext": ".docx",
+    "details": "IANA: OOXML - Word Document"
+  },
+  {
+    "name": "Microsoft Office - OOXML - Word Document Template",
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.template",
+    "ext": ".dotx",
+    "details": "IANA: OOXML - Word Document Template"
+  },
+  {
+    "name": "Microsoft Office Binder",
+    "mime": "application/x-msbinder",
+    "ext": ".obd",
+    "details": "Wikipedia: Microsoft Shared Tools"
+  },
+  {
+    "name": "Microsoft Office System Release Theme",
+    "mime": "application/vnd.ms-officetheme",
+    "ext": ".thmx",
+    "details": "IANA: MS Office System Release Theme"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "mime": "application/onenote",
+    "ext": ".onetoc",
+    "details": "MS OneNote 2010"
+  },
+  {
+    "name": "Microsoft PlayReady Ecosystem",
+    "mime": "audio/vnd.ms-playready.media.pya",
+    "ext": ".pya",
+    "details": "IANA: Microsoft PlayReady Ecosystem"
+  },
+  {
+    "name": "Microsoft PlayReady Ecosystem Video",
+    "mime": "video/vnd.ms-playready.media.pyv",
+    "ext": ".pyv",
+    "details": "IANA: Microsoft PlayReady Ecosystem"
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "mime": "application/vnd.ms-powerpoint",
+    "ext": ".ppt",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft PowerPoint - Add-in file",
+    "mime": "application/vnd.ms-powerpoint.addin.macroenabled.12",
+    "ext": ".ppam",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft PowerPoint - Macro-Enabled Open XML Slide",
+    "mime": "application/vnd.ms-powerpoint.slide.macroenabled.12",
+    "ext": ".sldm",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft PowerPoint - Macro-Enabled Presentation File",
+    "mime": "application/vnd.ms-powerpoint.presentation.macroenabled.12",
+    "ext": ".pptm",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft PowerPoint - Macro-Enabled Slide Show File",
+    "mime": "application/vnd.ms-powerpoint.slideshow.macroenabled.12",
+    "ext": ".ppsm",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft PowerPoint - Macro-Enabled Template File",
+    "mime": "application/vnd.ms-powerpoint.template.macroenabled.12",
+    "ext": ".potm",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft Project",
+    "mime": "application/vnd.ms-project",
+    "ext": ".mpp",
+    "details": "IANA: MS PowerPoint"
+  },
+  {
+    "name": "Microsoft Publisher",
+    "mime": "application/x-mspublisher",
+    "ext": ".pub",
+    "details": "Wikipedia: Microsoft Publisher"
+  },
+  {
+    "name": "Microsoft Schedule+",
+    "mime": "application/x-msschedule",
+    "ext": ".scd",
+    "details": "Wikipedia: Microsoft Schedule Plus"
+  },
+  {
+    "name": "Microsoft Silverlight",
+    "mime": "application/x-silverlight-app",
+    "ext": ".xap",
+    "details": "Wikipedia: Silverlight"
+  },
+  {
+    "name": "Microsoft Trust UI Provider - Certificate Trust Link",
+    "mime": "application/vnd.ms-pki.stl",
+    "ext": ".stl",
+    "details": "IANA: MS Trust UI Provider"
+  },
+  {
+    "name": "Microsoft Trust UI Provider - Security Catalog",
+    "mime": "application/vnd.ms-pki.seccat",
+    "ext": ".cat",
+    "details": "IANA: MS Trust UI Provider"
+  },
+  {
+    "name": "Microsoft Visio",
+    "mime": "application/vnd.visio",
+    "ext": ".vsd",
+    "details": "IANA: Visio"
+  },
+  {
+    "name": "Microsoft Visio 2013",
+    "mime": "application/vnd.visio2013",
+    "ext": ".vsdx",
+    "details": "IANA: Visio"
+  },
+  {
+    "name": "Microsoft Windows Media",
+    "mime": "video/x-ms-wm",
+    "ext": ".wm",
+    "details": "Wikipedia: Advanced Systems Format (ASF)"
+  },
+  {
+    "name": "Microsoft Windows Media Audio",
+    "mime": "audio/x-ms-wma",
+    "ext": ".wma",
+    "details": "Wikipedia: Windows Media Audio"
+  },
+  {
+    "name": "Microsoft Windows Media Audio Redirector",
+    "mime": "audio/x-ms-wax",
+    "ext": ".wax",
+    "details": "Windows Media Metafiles"
+  },
+  {
+    "name": "Microsoft Windows Media Audio/Video Playlist",
+    "mime": "video/x-ms-wmx",
+    "ext": ".wmx",
+    "details": "Wikipedia: Advanced Systems Format (ASF)"
+  },
+  {
+    "name": "Microsoft Windows Media Player Download Package",
+    "mime": "application/x-ms-wmd",
+    "ext": ".wmd",
+    "details": "Wikipedia: Windows Media Player"
+  },
+  {
+    "name": "Microsoft Windows Media Player Playlist",
+    "mime": "application/vnd.ms-wpl",
+    "ext": ".wpl",
+    "details": "IANA: MS Windows Media Player Playlist"
+  },
+  {
+    "name": "Microsoft Windows Media Player Skin Package",
+    "mime": "application/x-ms-wmz",
+    "ext": ".wmz",
+    "details": "Wikipedia: Windows Media Player"
+  },
+  {
+    "name": "Microsoft Windows Media Video",
+    "mime": "video/x-ms-wmv",
+    "ext": ".wmv",
+    "details": "Wikipedia: Advanced Systems Format (ASF)"
+  },
+  {
+    "name": "Microsoft Windows Media Video Playlist",
+    "mime": "video/x-ms-wvx",
+    "ext": ".wvx",
+    "details": "Wikipedia: Advanced Systems Format (ASF)"
+  },
+  {
+    "name": "Microsoft Windows Metafile",
+    "mime": "application/x-msmetafile",
+    "ext": ".wmf",
+    "details": "Wikipedia: Windows Metafile"
+  },
+  {
+    "name": "Microsoft Windows Terminal Services",
+    "mime": "application/x-msterminal",
+    "ext": ".trm",
+    "details": "Wikipedia: Terminal Server"
+  },
+  {
+    "name": "Microsoft Word",
+    "mime": "application/msword",
+    "ext": ".doc",
+    "details": "Wikipedia: Microsoft Word"
+  },
+  {
+    "name": "Microsoft Word - Macro-Enabled Document",
+    "mime": "application/vnd.ms-word.document.macroenabled.12",
+    "ext": ".docm",
+    "details": "IANA: MS Word"
+  },
+  {
+    "name": "Microsoft Word - Macro-Enabled Template",
+    "mime": "application/vnd.ms-word.template.macroenabled.12",
+    "ext": ".dotm",
+    "details": "IANA: MS Word"
+  },
+  {
+    "name": "Microsoft Wordpad",
+    "mime": "application/x-mswrite",
+    "ext": ".wri",
+    "details": "Wikipedia: Wordpad"
+  },
+  {
+    "name": "Microsoft Works",
+    "mime": "application/vnd.ms-works",
+    "ext": ".wps",
+    "details": "IANA: MS Works"
+  },
+  {
+    "name": "Microsoft XAML Browser Application",
+    "mime": "application/x-ms-xbap",
+    "ext": ".xbap",
+    "details": "Wikipedia: XAML Browser"
+  },
+  {
+    "name": "Microsoft XML Paper Specification",
+    "mime": "application/vnd.ms-xpsdocument",
+    "ext": ".xps",
+    "details": "IANA: MS XML Paper Specification"
+  },
+  {
+    "name": "MIDI",
+    "mime": "audio/midi",
+    "ext": ".midi",
+    "details": "Wikipedia: MIDI"
+  },
+  {
+    "name": "MIDI - Musical Instrument Digital Interface",
+    "mime": "audio/midi",
+    "ext": ".mid",
+    "details": "Wikipedia: MIDI"
+  },
+  {
+    "name": "MiniPay",
+    "mime": "application/vnd.ibm.minipay",
+    "ext": ".mpy",
+    "details": "IANA: MiniPay"
+  },
+  {
+    "name": "MO:DCA-P",
+    "mime": "application/vnd.ibm.modcap",
+    "ext": ".afp",
+    "details": "IANA: MO:DCA-P"
+  },
+  {
+    "name": "Mobile Information Device Profile",
+    "mime": "application/vnd.jcp.javame.midlet-rms",
+    "ext": ".rms",
+    "details": "IANA: Mobile Information Device Profile"
+  },
+  {
+    "name": "MobileTV",
+    "mime": "application/vnd.tmobile-livetv",
+    "ext": ".tmo",
+    "details": "IANA: MobileTV"
+  },
+  {
+    "name": "Mobipocket",
+    "mime": "application/x-mobipocket-ebook",
+    "ext": ".prc",
+    "details": "Wikipedia: Mobipocket"
+  },
+  {
+    "name": "Mobius Management Systems - Basket file",
+    "mime": "application/vnd.mobius.mbk",
+    "ext": ".mbk",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - Distribution Database",
+    "mime": "application/vnd.mobius.dis",
+    "ext": ".dis",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - Policy Definition Language File",
+    "mime": "application/vnd.mobius.plc",
+    "ext": ".plc",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - Query File",
+    "mime": "application/vnd.mobius.mqy",
+    "ext": ".mqy",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - Script Language",
+    "mime": "application/vnd.mobius.msl",
+    "ext": ".msl",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - Topic Index File",
+    "mime": "application/vnd.mobius.txf",
+    "ext": ".txf",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "Mobius Management Systems - UniversalArchive",
+    "mime": "application/vnd.mobius.daf",
+    "ext": ".daf",
+    "details": "IANA: Mobius Management Systems"
+  },
+  {
+    "name": "mod_fly / fly.cgi",
+    "mime": "text/vnd.fly",
+    "ext": ".fly",
+    "details": "IANA: Fly"
+  },
+  {
+    "name": "Mophun Certificate",
+    "mime": "application/vnd.mophun.certificate",
+    "ext": ".mpc",
+    "details": "IANA: Mophun Certificate"
+  },
+  {
+    "name": "Mophun VM",
+    "mime": "application/vnd.mophun.application",
+    "ext": ".mpn",
+    "details": "IANA: Mophun VM"
+  },
+  {
+    "name": "Motion JPEG 2000",
+    "mime": "video/mj2",
+    "ext": ".mj2",
+    "details": "IANA: MJ2"
+  },
+  {
+    "name": "MPEG Audio",
+    "mime": "audio/mpeg",
+    "ext": ".mpga",
+    "details": "Wikipedia: MPGA"
+  },
+  {
+    "name": "MPEG Transport Stream",
+    "mime": "video/mp2t",
+    "ext": ".ts",
+    "details": "Wikipedia: MPEG Transport Stream"
+  },
+  {
+    "name": "MPEG Url",
+    "mime": "video/vnd.mpegurl",
+    "ext": ".mxu",
+    "details": "IANA: MPEG Url"
+  },
+  {
+    "name": "MPEG Video",
+    "mime": "video/mpeg",
+    "ext": ".mpeg",
+    "details": "Wikipedia: MPEG"
+  },
+  {
+    "name": "MPEG-21",
+    "mime": "application/mp21",
+    "ext": ".m21",
+    "details": "Wikipedia: MPEG-21"
+  },
+  {
+    "name": "MPEG-4 Audio",
+    "mime": "audio/mp4",
+    "ext": ".mp4a",
+    "details": "Wikipedia: MP4A"
+  },
+  {
+    "name": "MPEG-4 Video",
+    "mime": "video/mp4",
+    "ext": ".mp4",
+    "details": "Wikipedia: MP4"
+  },
+  {
+    "name": "MPEG4",
+    "mime": "application/mp4",
+    "ext": ".mp4",
+    "details": "RFC 4337"
+  },
+  {
+    "name": "Multimedia Playlist Unicode",
+    "mime": "application/vnd.apple.mpegurl",
+    "ext": ".m3u8",
+    "details": "Wikipedia: M3U"
+  },
+  {
+    "name": "MUsical Score Interpreted Code Invented  for the ASCII designation of Notation",
+    "mime": "application/vnd.musician",
+    "ext": ".mus",
+    "details": "IANA: MUSICIAN"
+  },
+  {
+    "name": "Muvee Automatic Video Editing",
+    "mime": "application/vnd.muvee.style",
+    "ext": ".msty",
+    "details": "IANA: Muvee"
+  },
+  {
+    "name": "MXML",
+    "mime": "application/xv+xml",
+    "ext": ".mxml",
+    "details": "Wikipedia: MXML"
+  },
+  {
+    "name": "N-Gage Game Data",
+    "mime": "application/vnd.nokia.n-gage.data",
+    "ext": ".ngdat",
+    "details": "IANA: N-Gage Game Data"
+  },
+  {
+    "name": "N-Gage Game Installer",
+    "mime": "application/vnd.nokia.n-gage.symbian.install",
+    "ext": ".n-gage",
+    "details": "IANA: N-Gage Game Installer"
+  },
+  {
+    "name": "Navigation Control file for XML (for ePub)",
+    "mime": "application/x-dtbncx+xml",
+    "ext": ".ncx",
+    "details": "Wikipedia: EPUB"
+  },
+  {
+    "name": "Network Common Data Form (NetCDF)",
+    "mime": "application/x-netcdf",
+    "ext": ".nc",
+    "details": "Wikipedia: NetCDF"
+  },
+  {
+    "name": "neuroLanguage",
+    "mime": "application/vnd.neurolanguage.nlu",
+    "ext": ".nlu",
+    "details": "IANA: neuroLanguage"
+  },
+  {
+    "name": "New Moon Liftoff/DNA",
+    "mime": "application/vnd.dna",
+    "ext": ".dna",
+    "details": "IANA: New Moon Liftoff/DNA"
+  },
+  {
+    "name": "NobleNet Directory",
+    "mime": "application/vnd.noblenet-directory",
+    "ext": ".nnd",
+    "details": "IANA: NobleNet Directory"
+  },
+  {
+    "name": "NobleNet Sealer",
+    "mime": "application/vnd.noblenet-sealer",
+    "ext": ".nns",
+    "details": "IANA: NobleNet Sealer"
+  },
+  {
+    "name": "NobleNet Web",
+    "mime": "application/vnd.noblenet-web",
+    "ext": ".nnw",
+    "details": "IANA: NobleNet Web"
+  },
+  {
+    "name": "Nokia Radio Application - Preset",
+    "mime": "application/vnd.nokia.radio-preset",
+    "ext": ".rpst",
+    "details": "IANA: Nokia Radio Application"
+  },
+  {
+    "name": "Nokia Radio Application - Preset",
+    "mime": "application/vnd.nokia.radio-presets",
+    "ext": ".rpss",
+    "details": "IANA: Nokia Radio Application"
+  },
+  {
+    "name": "Notation3",
+    "mime": "text/n3",
+    "ext": ".n3",
+    "details": "Wikipedia: Notation3"
+  },
+  {
+    "name": "Novadigm's RADIA and EDM products",
+    "mime": "application/vnd.novadigm.edm",
+    "ext": ".edm",
+    "details": "IANA: Novadigm's RADIA and EDM products"
+  },
+  {
+    "name": "Novadigm's RADIA and EDM products",
+    "mime": "application/vnd.novadigm.edx",
+    "ext": ".edx",
+    "details": "IANA: Novadigm's RADIA and EDM products"
+  },
+  {
+    "name": "Novadigm's RADIA and EDM products",
+    "mime": "application/vnd.novadigm.ext",
+    "ext": ".ext",
+    "details": "IANA: Novadigm's RADIA and EDM products"
+  },
+  {
+    "name": "NpGraphIt",
+    "mime": "application/vnd.flographit",
+    "ext": ".gph",
+    "details": "IANA: FloGraphIt"
+  },
+  {
+    "name": "Nuera ECELP 4800",
+    "mime": "audio/vnd.nuera.ecelp4800",
+    "ext": ".ecelp4800",
+    "details": "IANA: ECELP 4800"
+  },
+  {
+    "name": "Nuera ECELP 7470",
+    "mime": "audio/vnd.nuera.ecelp7470",
+    "ext": ".ecelp7470",
+    "details": "IANA: ECELP 7470"
+  },
+  {
+    "name": "Nuera ECELP 9600",
+    "mime": "audio/vnd.nuera.ecelp9600",
+    "ext": ".ecelp9600",
+    "details": "IANA: ECELP 9600"
+  },
+  {
+    "name": "Office Document Architecture",
+    "mime": "application/oda",
+    "ext": ".oda",
+    "details": "RFC 2161"
+  },
+  {
+    "name": "Ogg",
+    "mime": "application/ogg",
+    "ext": ".ogx",
+    "details": "Wikipedia: Ogg"
+  },
+  {
+    "name": "Ogg Audio",
+    "mime": "audio/ogg",
+    "ext": ".oga",
+    "details": "Wikipedia: Ogg"
+  },
+  {
+    "name": "Ogg Video",
+    "mime": "video/ogg",
+    "ext": ".ogv",
+    "details": "Wikipedia: Ogg"
+  },
+  {
+    "name": "OMA Download Agents",
+    "mime": "application/vnd.oma.dd2+xml",
+    "ext": ".dd2",
+    "details": "IANA: OMA Download Agents"
+  },
+  {
+    "name": "Open Document Text Web",
+    "mime": "application/vnd.oasis.opendocument.text-web",
+    "ext": ".oth",
+    "details": "IANA: OpenDocument Text Web"
+  },
+  {
+    "name": "Open eBook Publication Structure",
+    "mime": "application/oebps-package+xml",
+    "ext": ".opf",
+    "details": "Wikipedia: Open eBook"
+  },
+  {
+    "name": "Open Financial Exchange",
+    "mime": "application/vnd.intu.qbo",
+    "ext": ".qbo",
+    "details": "IANA: Open Financial Exchange"
+  },
+  {
+    "name": "Open Office Extension",
+    "mime": "application/vnd.openofficeorg.extension",
+    "ext": ".oxt",
+    "details": "IANA: Open Office Extension"
+  },
+  {
+    "name": "Open Score Format",
+    "mime": "application/vnd.yamaha.openscoreformat",
+    "ext": ".osf",
+    "details": "IANA: Open Score Format"
+  },
+  {
+    "name": "Open Web Media Project - Audio",
+    "mime": "audio/webm",
+    "ext": ".weba",
+    "details": "WebM Project"
+  },
+  {
+    "name": "Open Web Media Project - Video",
+    "mime": "video/webm",
+    "ext": ".webm",
+    "details": "WebM Project"
+  },
+  {
+    "name": "OpenDocument Chart",
+    "mime": "application/vnd.oasis.opendocument.chart",
+    "ext": ".odc",
+    "details": "IANA: OpenDocument Chart"
+  },
+  {
+    "name": "OpenDocument Chart Template",
+    "mime": "application/vnd.oasis.opendocument.chart-template",
+    "ext": ".otc",
+    "details": "IANA: OpenDocument Chart Template"
+  },
+  {
+    "name": "OpenDocument Database",
+    "mime": "application/vnd.oasis.opendocument.database",
+    "ext": ".odb",
+    "details": "IANA: OpenDocument Database"
+  },
+  {
+    "name": "OpenDocument Formula",
+    "mime": "application/vnd.oasis.opendocument.formula",
+    "ext": ".odf",
+    "details": "IANA: OpenDocument Formula"
+  },
+  {
+    "name": "OpenDocument Formula Template",
+    "mime": "application/vnd.oasis.opendocument.formula-template",
+    "ext": ".odft",
+    "details": "IANA: OpenDocument Formula Template"
+  },
+  {
+    "name": "OpenDocument Graphics",
+    "mime": "application/vnd.oasis.opendocument.graphics",
+    "ext": ".odg",
+    "details": "IANA: OpenDocument Graphics"
+  },
+  {
+    "name": "OpenDocument Graphics Template",
+    "mime": "application/vnd.oasis.opendocument.graphics-template",
+    "ext": ".otg",
+    "details": "IANA: OpenDocument Graphics Template"
+  },
+  {
+    "name": "OpenDocument Image",
+    "mime": "application/vnd.oasis.opendocument.image",
+    "ext": ".odi",
+    "details": "IANA: OpenDocument Image"
+  },
+  {
+    "name": "OpenDocument Image Template",
+    "mime": "application/vnd.oasis.opendocument.image-template",
+    "ext": ".oti",
+    "details": "IANA: OpenDocument Image Template"
+  },
+  {
+    "name": "OpenDocument Presentation",
+    "mime": "application/vnd.oasis.opendocument.presentation",
+    "ext": ".odp",
+    "details": "IANA: OpenDocument Presentation"
+  },
+  {
+    "name": "OpenDocument Presentation Template",
+    "mime": "application/vnd.oasis.opendocument.presentation-template",
+    "ext": ".otp",
+    "details": "IANA: OpenDocument Presentation Template"
+  },
+  {
+    "name": "OpenDocument Spreadsheet",
+    "mime": "application/vnd.oasis.opendocument.spreadsheet",
+    "ext": ".ods",
+    "details": "IANA: OpenDocument Spreadsheet"
+  },
+  {
+    "name": "OpenDocument Spreadsheet Template",
+    "mime": "application/vnd.oasis.opendocument.spreadsheet-template",
+    "ext": ".ots",
+    "details": "IANA: OpenDocument Spreadsheet Template"
+  },
+  {
+    "name": "OpenDocument Text",
+    "mime": "application/vnd.oasis.opendocument.text",
+    "ext": ".odt",
+    "details": "IANA: OpenDocument Text"
+  },
+  {
+    "name": "OpenDocument Text Master",
+    "mime": "application/vnd.oasis.opendocument.text-master",
+    "ext": ".odm",
+    "details": "IANA: OpenDocument Text Master"
+  },
+  {
+    "name": "OpenDocument Text Template",
+    "mime": "application/vnd.oasis.opendocument.text-template",
+    "ext": ".ott",
+    "details": "IANA: OpenDocument Text Template"
+  },
+  {
+    "name": "OpenGL Textures (KTX)",
+    "mime": "image/ktx",
+    "ext": ".ktx",
+    "details": "KTX File Format"
+  },
+  {
+    "name": "OpenOffice - Calc (Spreadsheet)",
+    "mime": "application/vnd.sun.xml.calc",
+    "ext": ".sxc",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Calc Template (Spreadsheet)",
+    "mime": "application/vnd.sun.xml.calc.template",
+    "ext": ".stc",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Draw (Graphics)",
+    "mime": "application/vnd.sun.xml.draw",
+    "ext": ".sxd",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Draw Template (Graphics)",
+    "mime": "application/vnd.sun.xml.draw.template",
+    "ext": ".std",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Impress (Presentation)",
+    "mime": "application/vnd.sun.xml.impress",
+    "ext": ".sxi",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Impress Template (Presentation)",
+    "mime": "application/vnd.sun.xml.impress.template",
+    "ext": ".sti",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Math (Formula)",
+    "mime": "application/vnd.sun.xml.math",
+    "ext": ".sxm",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Writer (Text - HTML)",
+    "mime": "application/vnd.sun.xml.writer",
+    "ext": ".sxw",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Writer (Text - HTML)",
+    "mime": "application/vnd.sun.xml.writer.global",
+    "ext": ".sxg",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenOffice - Writer Template (Text - HTML)",
+    "mime": "application/vnd.sun.xml.writer.template",
+    "ext": ".stw",
+    "details": "Wikipedia: OpenOffice"
+  },
+  {
+    "name": "OpenType Font File",
+    "mime": "application/x-font-otf",
+    "ext": ".otf",
+    "details": "OpenType Font File"
+  },
+  {
+    "name": "Opus Audio",
+    "mime": "audio/opus",
+    "ext": ".opus",
+    "details": "Wikipedia: Opus Audio"
+  },
+  {
+    "name": "OSFPVG",
+    "mime": "application/vnd.yamaha.openscoreformat.osfpvg+xml",
+    "ext": ".osfpvg",
+    "details": "IANA: OSFPVG"
+  },
+  {
+    "name": "OSGi Deployment Package",
+    "mime": "application/vnd.osgi.dp",
+    "ext": ".dp",
+    "details": "IANA: OSGi Deployment Package"
+  },
+  {
+    "name": "PalmOS Data",
+    "mime": "application/vnd.palm",
+    "ext": ".pdb",
+    "details": "IANA: PalmOS Data"
+  },
+  {
+    "name": "Pascal Source File",
+    "mime": "text/x-pascal",
+    "ext": ".p",
+    "details": "Wikipedia: Pascal"
+  },
+  {
+    "name": "PawaaFILE",
+    "mime": "application/vnd.pawaafile",
+    "ext": ".paw",
+    "details": "IANA: PawaaFILE"
+  },
+  {
+    "name": "PCL 6 Enhanced (Formely PCL XL)",
+    "mime": "application/vnd.hp-pclxl",
+    "ext": ".pclxl",
+    "details": "IANA: HP PCL XL"
+  },
+  {
+    "name": "Pcsel eFIF File",
+    "mime": "application/vnd.picsel",
+    "ext": ".efif",
+    "details": "IANA: Picsel eFIF File"
+  },
+  {
+    "name": "PCX Image",
+    "mime": "image/x-pcx",
+    "ext": ".pcx",
+    "details": "Wikipedia: PCX"
+  },
+  {
+    "name": "Photoshop Document",
+    "mime": "image/vnd.adobe.photoshop",
+    "ext": ".psd",
+    "details": "Wikipedia: Photoshop Document"
+  },
+  {
+    "name": "PICSRules",
+    "mime": "application/pics-rules",
+    "ext": ".prf",
+    "details": "W3C PICSRules"
+  },
+  {
+    "name": "PICT Image",
+    "mime": "image/x-pict",
+    "ext": ".pic",
+    "details": "Wikipedia: PICT"
+  },
+  {
+    "name": "pIRCh",
+    "mime": "application/x-chat",
+    "ext": ".chat",
+    "details": "Wikipedia: pIRCh"
+  },
+  {
+    "name": "PKCS #10 - Certification Request Standard",
+    "mime": "application/pkcs10",
+    "ext": ".p10",
+    "details": "RFC 2986"
+  },
+  {
+    "name": "PKCS #12 - Personal Information Exchange Syntax Standard",
+    "mime": "application/x-pkcs12",
+    "ext": ".p12",
+    "details": "RFC 2986"
+  },
+  {
+    "name": "PKCS #7 - Cryptographic Message Syntax Standard",
+    "mime": "application/pkcs7-mime",
+    "ext": ".p7m",
+    "details": "RFC 2315"
+  },
+  {
+    "name": "PKCS #7 - Cryptographic Message Syntax Standard",
+    "mime": "application/pkcs7-signature",
+    "ext": ".p7s",
+    "details": "RFC 2315"
+  },
+  {
+    "name": "PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response)",
+    "mime": "application/x-pkcs7-certreqresp",
+    "ext": ".p7r",
+    "details": "RFC 2986"
+  },
+  {
+    "name": "PKCS #7 - Cryptographic Message Syntax Standard (Certificates)",
+    "mime": "application/x-pkcs7-certificates",
+    "ext": ".p7b",
+    "details": "RFC 2986"
+  },
+  {
+    "name": "PKCS #8 - Private-Key Information Syntax Standard",
+    "mime": "application/pkcs8",
+    "ext": ".p8",
+    "details": "RFC 5208"
+  },
+  {
+    "name": "PocketLearn Viewers",
+    "mime": "application/vnd.pocketlearn",
+    "ext": ".plf",
+    "details": "IANA: PocketLearn Viewers"
+  },
+  {
+    "name": "Portable Anymap Image",
+    "mime": "image/x-portable-anymap",
+    "ext": ".pnm",
+    "details": "Wikipedia: Netpbm Format"
+  },
+  {
+    "name": "Portable Bitmap Format",
+    "mime": "image/x-portable-bitmap",
+    "ext": ".pbm",
+    "details": "Wikipedia: Netpbm Format"
+  },
+  {
+    "name": "Portable Compiled Format",
+    "mime": "application/x-font-pcf",
+    "ext": ".pcf",
+    "details": "Wikipedia: Portable Compiled Format"
+  },
+  {
+    "name": "Portable Font Resource",
+    "mime": "application/font-tdpfr",
+    "ext": ".pfr",
+    "details": "RFC 3073"
+  },
+  {
+    "name": "Portable Game Notation (Chess Games)",
+    "mime": "application/x-chess-pgn",
+    "ext": ".pgn",
+    "details": "Wikipedia: Portable Game Notationb"
+  },
+  {
+    "name": "Portable Graymap Format",
+    "mime": "image/x-portable-graymap",
+    "ext": ".pgm",
+    "details": "Wikipedia: Netpbm Format"
+  },
+  {
+    "name": "Portable Network Graphics (PNG)",
+    "mime": "image/png",
+    "ext": ".png",
+    "details": "RFC 2083"
+  },
+  {
+    "name": "Portable Network Graphics (PNG) (Citrix client)",
+    "mime": "image/x-citrix-png",
+    "ext": ".png",
+    "details": "RFC 2083"
+  },
+  {
+    "name": "Portable Network Graphics (PNG) (x-token)",
+    "mime": "image/x-png",
+    "ext": ".png",
+    "details": "RFC 2083"
+  },
+  {
+    "name": "Portable Pixmap Format",
+    "mime": "image/x-portable-pixmap",
+    "ext": ".ppm",
+    "details": "Wikipedia: Netpbm Format"
+  },
+  {
+    "name": "Portable Symmetric Key Container",
+    "mime": "application/pskc+xml",
+    "ext": ".pskcxml",
+    "details": "RFC 6030"
+  },
+  {
+    "name": "PosML",
+    "mime": "application/vnd.ctc-posml",
+    "ext": ".pml",
+    "details": "IANA: PosML"
+  },
+  {
+    "name": "PostScript",
+    "mime": "application/postscript",
+    "ext": ".ai",
+    "details": "Wikipedia: PostScript"
+  },
+  {
+    "name": "PostScript Fonts",
+    "mime": "application/x-font-type1",
+    "ext": ".pfa",
+    "details": "Wikipedia: PostScript Fonts"
+  },
+  {
+    "name": "PowerBuilder",
+    "mime": "application/vnd.powerbuilder6",
+    "ext": ".pbd",
+    "details": "IANA: PowerBuilder"
+  },
+  {
+    "name": "Pretty Good Privacy",
+    "mime": "application/pgp-encrypted",
+    "ext": ".pgp",
+    "details": "RFC 2015"
+  },
+  {
+    "name": "Pretty Good Privacy - Signature",
+    "mime": "application/pgp-signature",
+    "ext": ".pgp",
+    "details": "RFC 2015"
+  },
+  {
+    "name": "Preview Systems ZipLock/VBox",
+    "mime": "application/vnd.previewsystems.box",
+    "ext": ".box",
+    "details": "IANA: Preview Systems ZipLock/Vbox"
+  },
+  {
+    "name": "Princeton Video Image",
+    "mime": "application/vnd.pvi.ptid1",
+    "ext": ".ptid",
+    "details": "IANA: Princeton Video Image"
+  },
+  {
+    "name": "Pronunciation Lexicon Specification",
+    "mime": "application/pls+xml",
+    "ext": ".pls",
+    "details": "RFC 4267"
+  },
+  {
+    "name": "Proprietary P&G Standard Reporting System",
+    "mime": "application/vnd.pg.format",
+    "ext": ".str",
+    "details": "IANA: Proprietary P&G Standard Reporting System"
+  },
+  {
+    "name": "Proprietary P&G Standard Reporting System",
+    "mime": "application/vnd.pg.osasli",
+    "ext": ".ei6",
+    "details": "IANA: Proprietary P&G Standard Reporting System"
+  },
+  {
+    "name": "PRS Lines Tag",
+    "mime": "text/prs.lines.tag",
+    "ext": ".dsc",
+    "details": "IANA: PRS Lines Tag"
+  },
+  {
+    "name": "PSF Fonts",
+    "mime": "application/x-font-linux-psf",
+    "ext": ".psf",
+    "details": "PSF Fonts"
+  },
+  {
+    "name": "PubliShare Objects",
+    "mime": "application/vnd.publishare-delta-tree",
+    "ext": ".qps",
+    "details": "IANA: PubliShare Objects"
+  },
+  {
+    "name": "Qualcomm's Plaza Mobile Internet",
+    "mime": "application/vnd.pmi.widget",
+    "ext": ".wg",
+    "details": "IANA: Qualcomm's Plaza Mobile Internet"
+  },
+  {
+    "name": "QuarkXpress",
+    "mime": "application/vnd.quark.quarkxpress",
+    "ext": ".qxd",
+    "details": "IANA: QuarkXPress"
+  },
+  {
+    "name": "QUASS Stream Player",
+    "mime": "application/vnd.epson.esf",
+    "ext": ".esf",
+    "details": "IANA: QUASS Stream Player"
+  },
+  {
+    "name": "QUASS Stream Player",
+    "mime": "application/vnd.epson.msf",
+    "ext": ".msf",
+    "details": "IANA: QUASS Stream Player"
+  },
+  {
+    "name": "QUASS Stream Player",
+    "mime": "application/vnd.epson.ssf",
+    "ext": ".ssf",
+    "details": "IANA: QUASS Stream Player"
+  },
+  {
+    "name": "QuickAnime Player",
+    "mime": "application/vnd.epson.quickanime",
+    "ext": ".qam",
+    "details": "IANA: QuickAnime Player"
+  },
+  {
+    "name": "Quicken",
+    "mime": "application/vnd.intu.qfx",
+    "ext": ".qfx",
+    "details": "IANA: Quicken"
+  },
+  {
+    "name": "Quicktime Video",
+    "mime": "video/quicktime",
+    "ext": ".qt",
+    "details": "Wikipedia: Quicktime"
+  },
+  {
+    "name": "RAR Archive",
+    "mime": "application/x-rar-compressed",
+    "ext": ".rar",
+    "details": "Wikipedia: RAR"
+  },
+  {
+    "name": "Real Audio Sound",
+    "mime": "audio/x-pn-realaudio",
+    "ext": ".ram",
+    "details": "Wikipedia: RealPlayer"
+  },
+  {
+    "name": "Real Audio Sound",
+    "mime": "audio/x-pn-realaudio-plugin",
+    "ext": ".rmp",
+    "details": "Wikipedia: RealPlayer"
+  },
+  {
+    "name": "Really Simple Discovery",
+    "mime": "application/rsd+xml",
+    "ext": ".rsd",
+    "details": "Wikipedia: Really Simple Discovery"
+  },
+  {
+    "name": "RealMedia",
+    "mime": "application/vnd.rn-realmedia",
+    "ext": ".rm",
+    "details": ""
+  },
+  {
+    "name": "RealVNC",
+    "mime": "application/vnd.realvnc.bed",
+    "ext": ".bed",
+    "details": "IANA: RealVNC"
+  },
+  {
+    "name": "Recordare Applications",
+    "mime": "application/vnd.recordare.musicxml",
+    "ext": ".mxl",
+    "details": "IANA: Recordare Apps"
+  },
+  {
+    "name": "Recordare Applications",
+    "mime": "application/vnd.recordare.musicxml+xml",
+    "ext": ".musicxml",
+    "details": "IANA: Recordare Apps"
+  },
+  {
+    "name": "Relax NG Compact Syntax",
+    "mime": "application/relax-ng-compact-syntax",
+    "ext": ".rnc",
+    "details": "Relax NG"
+  },
+  {
+    "name": "RemoteDocs R-Viewer",
+    "mime": "application/vnd.data-vision.rdz",
+    "ext": ".rdz",
+    "details": "IANA: Data-Vision"
+  },
+  {
+    "name": "Resource Description Framework",
+    "mime": "application/rdf+xml",
+    "ext": ".rdf",
+    "details": "RFC 3870"
+  },
+  {
+    "name": "RetroPlatform Player",
+    "mime": "application/vnd.cloanto.rp9",
+    "ext": ".rp9",
+    "details": "IANA: RetroPlatform Player"
+  },
+  {
+    "name": "RhymBox",
+    "mime": "application/vnd.jisp",
+    "ext": ".jisp",
+    "details": "IANA: RhymBox"
+  },
+  {
+    "name": "Rich Text Format",
+    "mime": "application/rtf",
+    "ext": ".rtf",
+    "details": "Wikipedia: Rich Text Format"
+  },
+  {
+    "name": "Rich Text Format (RTF)",
+    "mime": "text/richtext",
+    "ext": ".rtx",
+    "details": "Wikipedia: Rich Text Format"
+  },
+  {
+    "name": "ROUTE 66 Location Based Services",
+    "mime": "application/vnd.route66.link66+xml",
+    "ext": ".link66",
+    "details": "IANA: ROUTE 66"
+  },
+  {
+    "name": "RSS - Really Simple Syndication",
+    "mime": "application/rss+xml",
+    "ext": ".rss",
+    "details": "Wikipedia: RSS"
+  },
+  {
+    "name": "S Hexdump Format",
+    "mime": "application/shf+xml",
+    "ext": ".shf",
+    "details": "RFC 4194"
+  },
+  {
+    "name": "SailingTracker",
+    "mime": "application/vnd.sailingtracker.track",
+    "ext": ".st",
+    "details": "IANA: SailingTracker"
+  },
+  {
+    "name": "Scalable Vector Graphics (SVG)",
+    "mime": "image/svg+xml",
+    "ext": ".svg",
+    "details": "Wikipedia: SVG"
+  },
+  {
+    "name": "ScheduleUs",
+    "mime": "application/vnd.sus-calendar",
+    "ext": ".sus",
+    "details": "IANA: ScheduleUs"
+  },
+  {
+    "name": "Search/Retrieve via URL Response Format",
+    "mime": "application/sru+xml",
+    "ext": ".sru",
+    "details": "RFC 6207"
+  },
+  {
+    "name": "Secure Electronic Transaction - Payment",
+    "mime": "application/set-payment-initiation",
+    "ext": ".setpay",
+    "details": "IANA: SET Payment"
+  },
+  {
+    "name": "Secure Electronic Transaction - Registration",
+    "mime": "application/set-registration-initiation",
+    "ext": ".setreg",
+    "details": "IANA: SET Registration"
+  },
+  {
+    "name": "Secured eMail",
+    "mime": "application/vnd.sema",
+    "ext": ".sema",
+    "details": "IANA: Secured eMail"
+  },
+  {
+    "name": "Secured eMail",
+    "mime": "application/vnd.semd",
+    "ext": ".semd",
+    "details": "IANA: Secured eMail"
+  },
+  {
+    "name": "Secured eMail",
+    "mime": "application/vnd.semf",
+    "ext": ".semf",
+    "details": "IANA: Secured eMail"
+  },
+  {
+    "name": "SeeMail",
+    "mime": "application/vnd.seemail",
+    "ext": ".see",
+    "details": "IANA: SeeMail"
+  },
+  {
+    "name": "Server Normal Format",
+    "mime": "application/x-font-snf",
+    "ext": ".snf",
+    "details": "Wikipedia: Server Normal Format"
+  },
+  {
+    "name": "Server-Based Certificate Validation Protocol - Validation Policies - Request",
+    "mime": "application/scvp-vp-request",
+    "ext": ".spq",
+    "details": "RFC 5055"
+  },
+  {
+    "name": "Server-Based Certificate Validation Protocol - Validation Policies - Response",
+    "mime": "application/scvp-vp-response",
+    "ext": ".spp",
+    "details": "RFC 5055"
+  },
+  {
+    "name": "Server-Based Certificate Validation Protocol - Validation Request",
+    "mime": "application/scvp-cv-request",
+    "ext": ".scq",
+    "details": "RFC 5055"
+  },
+  {
+    "name": "Server-Based Certificate Validation Protocol - Validation Response",
+    "mime": "application/scvp-cv-response",
+    "ext": ".scs",
+    "details": "RFC 5055"
+  },
+  {
+    "name": "Session Description Protocol",
+    "mime": "application/sdp",
+    "ext": ".sdp",
+    "details": "RFC 2327"
+  },
+  {
+    "name": "Setext",
+    "mime": "text/x-setext",
+    "ext": ".etx",
+    "details": "Wikipedia: Setext"
+  },
+  {
+    "name": "SGI Movie",
+    "mime": "video/x-sgi-movie",
+    "ext": ".movie",
+    "details": "SGI Facts"
+  },
+  {
+    "name": "Shana Informed Filler",
+    "mime": "application/vnd.shana.informed.formdata",
+    "ext": ".ifm",
+    "details": "IANA: Shana Informed Filler"
+  },
+  {
+    "name": "Shana Informed Filler",
+    "mime": "application/vnd.shana.informed.formtemplate",
+    "ext": ".itp",
+    "details": "IANA: Shana Informed Filler"
+  },
+  {
+    "name": "Shana Informed Filler",
+    "mime": "application/vnd.shana.informed.interchange",
+    "ext": ".iif",
+    "details": "IANA: Shana Informed Filler"
+  },
+  {
+    "name": "Shana Informed Filler",
+    "mime": "application/vnd.shana.informed.package",
+    "ext": ".ipk",
+    "details": "IANA: Shana Informed Filler"
+  },
+  {
+    "name": "Sharing Transaction Fraud Data",
+    "mime": "application/thraud+xml",
+    "ext": ".tfi",
+    "details": "RFC 5941"
+  },
+  {
+    "name": "Shell Archive",
+    "mime": "application/x-shar",
+    "ext": ".shar",
+    "details": "Wikipedia: Shell Archie"
+  },
+  {
+    "name": "Silicon Graphics RGB Bitmap",
+    "mime": "image/x-rgb",
+    "ext": ".rgb",
+    "details": "RGB Image Format"
+  },
+  {
+    "name": "SimpleAnimeLite Player",
+    "mime": "application/vnd.epson.salt",
+    "ext": ".slt",
+    "details": "IANA: SimpleAnimeLite Player"
+  },
+  {
+    "name": "Simply Accounting",
+    "mime": "application/vnd.accpac.simply.aso",
+    "ext": ".aso",
+    "details": "IANA: Simply Accounting"
+  },
+  {
+    "name": "Simply Accounting - Data Import",
+    "mime": "application/vnd.accpac.simply.imp",
+    "ext": ".imp",
+    "details": "IANA: Simply Accounting"
+  },
+  {
+    "name": "SimTech MindMapper",
+    "mime": "application/vnd.simtech-mindmapper",
+    "ext": ".twd",
+    "details": "IANA: SimTech MindMapper"
+  },
+  {
+    "name": "Sixth Floor Media - CommonSpace",
+    "mime": "application/vnd.commonspace",
+    "ext": ".csp",
+    "details": "IANA: CommonSpace"
+  },
+  {
+    "name": "SMAF Audio",
+    "mime": "application/vnd.yamaha.smaf-audio",
+    "ext": ".saf",
+    "details": "IANA: SMAF Audio"
+  },
+  {
+    "name": "SMAF File",
+    "mime": "application/vnd.smaf",
+    "ext": ".mmf",
+    "details": "IANA: SMAF File"
+  },
+  {
+    "name": "SMAF Phrase",
+    "mime": "application/vnd.yamaha.smaf-phrase",
+    "ext": ".spf",
+    "details": "IANA: SMAF Phrase"
+  },
+  {
+    "name": "SMART Technologies Apps",
+    "mime": "application/vnd.smart.teacher",
+    "ext": ".teacher",
+    "details": "IANA: SMART Technologies Apps"
+  },
+  {
+    "name": "SourceView Document",
+    "mime": "application/vnd.svd",
+    "ext": ".svd",
+    "details": "IANA: SourceView Document"
+  },
+  {
+    "name": "SPARQL - Query",
+    "mime": "application/sparql-query",
+    "ext": ".rq",
+    "details": "W3C SPARQL"
+  },
+  {
+    "name": "SPARQL - Results",
+    "mime": "application/sparql-results+xml",
+    "ext": ".srx",
+    "details": "W3C SPARQL"
+  },
+  {
+    "name": "Speech Recognition Grammar Specification",
+    "mime": "application/srgs",
+    "ext": ".gram",
+    "details": "W3C Speech Grammar"
+  },
+  {
+    "name": "Speech Recognition Grammar Specification - XML",
+    "mime": "application/srgs+xml",
+    "ext": ".grxml",
+    "details": "W3C Speech Grammar"
+  },
+  {
+    "name": "Speech Synthesis Markup Language",
+    "mime": "application/ssml+xml",
+    "ext": ".ssml",
+    "details": "W3C Speech Synthesis"
+  },
+  {
+    "name": "SSEYO Koan Play File",
+    "mime": "application/vnd.koan",
+    "ext": ".skp",
+    "details": "IANA: SSEYO Koan Play File"
+  },
+  {
+    "name": "Standard Generalized Markup Language (SGML)",
+    "mime": "text/sgml",
+    "ext": ".sgml",
+    "details": "Wikipedia: SGML"
+  },
+  {
+    "name": "StarOffice - Calc",
+    "mime": "application/vnd.stardivision.calc",
+    "ext": ".sdc",
+    "details": ""
+  },
+  {
+    "name": "StarOffice - Draw",
+    "mime": "application/vnd.stardivision.draw",
+    "ext": ".sda",
+    "details": ""
+  },
+  {
+    "name": "StarOffice - Impress",
+    "mime": "application/vnd.stardivision.impress",
+    "ext": ".sdd",
+    "details": ""
+  },
+  {
+    "name": "StarOffice - Math",
+    "mime": "application/vnd.stardivision.math",
+    "ext": ".smf",
+    "details": ""
+  },
+  {
+    "name": "StarOffice - Writer",
+    "mime": "application/vnd.stardivision.writer",
+    "ext": ".sdw",
+    "details": ""
+  },
+  {
+    "name": "StarOffice - Writer  (Global)",
+    "mime": "application/vnd.stardivision.writer-global",
+    "ext": ".sgl",
+    "details": ""
+  },
+  {
+    "name": "StepMania",
+    "mime": "application/vnd.stepmania.stepchart",
+    "ext": ".sm",
+    "details": "IANA: StepMania"
+  },
+  {
+    "name": "Stuffit Archive",
+    "mime": "application/x-stuffit",
+    "ext": ".sit",
+    "details": "Wikipedia: Stuffit"
+  },
+  {
+    "name": "Stuffit Archive",
+    "mime": "application/x-stuffitx",
+    "ext": ".sitx",
+    "details": "Wikipedia: Stuffit"
+  },
+  {
+    "name": "SudokuMagic",
+    "mime": "application/vnd.solent.sdkm+xml",
+    "ext": ".sdkm",
+    "details": "IANA: SudokuMagic"
+  },
+  {
+    "name": "Sugar Linux Application Bundle",
+    "mime": "application/vnd.olpc-sugar",
+    "ext": ".xo",
+    "details": "IANA: Sugar Linux App Bundle"
+  },
+  {
+    "name": "Sun Audio - Au file format",
+    "mime": "audio/basic",
+    "ext": ".au",
+    "details": "Wikipedia: Sun audio"
+  },
+  {
+    "name": "SundaHus WQ",
+    "mime": "application/vnd.wqd",
+    "ext": ".wqd",
+    "details": "IANA: SundaHus WQ"
+  },
+  {
+    "name": "Symbian Install Package",
+    "mime": "application/vnd.symbian.install",
+    "ext": ".sis",
+    "details": "IANA: Symbian Install"
+  },
+  {
+    "name": "Synchronized Multimedia Integration Language",
+    "mime": "application/smil+xml",
+    "ext": ".smi",
+    "details": "RFC 4536"
+  },
+  {
+    "name": "SyncML",
+    "mime": "application/vnd.syncml+xml",
+    "ext": ".xsm",
+    "details": "IANA: SyncML"
+  },
+  {
+    "name": "SyncML - Device Management",
+    "mime": "application/vnd.syncml.dm+wbxml",
+    "ext": ".bdm",
+    "details": "IANA: SyncML"
+  },
+  {
+    "name": "SyncML - Device Management",
+    "mime": "application/vnd.syncml.dm+xml",
+    "ext": ".xdm",
+    "details": "IANA: SyncML"
+  },
+  {
+    "name": "System V Release 4 CPIO Archive",
+    "mime": "application/x-sv4cpio",
+    "ext": ".sv4cpio",
+    "details": "Wikipedia: pax"
+  },
+  {
+    "name": "System V Release 4 CPIO Checksum Data",
+    "mime": "application/x-sv4crc",
+    "ext": ".sv4crc",
+    "details": "Wikipedia: pax"
+  },
+  {
+    "name": "Systems Biology Markup Language",
+    "mime": "application/sbml+xml",
+    "ext": ".sbml",
+    "details": "RFC 3823"
+  },
+  {
+    "name": "Tab Seperated Values",
+    "mime": "text/tab-separated-values",
+    "ext": ".tsv",
+    "details": "Wikipedia: TSV"
+  },
+  {
+    "name": "Tagged Image File Format",
+    "mime": "image/tiff",
+    "ext": ".tiff",
+    "details": "Wikipedia: TIFF"
+  },
+  {
+    "name": "Tao Intent",
+    "mime": "application/vnd.tao.intent-module-archive",
+    "ext": ".tao",
+    "details": "IANA: Tao Intent"
+  },
+  {
+    "name": "Tar File (Tape Archive)",
+    "mime": "application/x-tar",
+    "ext": ".tar",
+    "details": "Wikipedia: Tar"
+  },
+  {
+    "name": "Tcl Script",
+    "mime": "application/x-tcl",
+    "ext": ".tcl",
+    "details": "Wikipedia: Tcl"
+  },
+  {
+    "name": "TeX",
+    "mime": "application/x-tex",
+    "ext": ".tex",
+    "details": "Wikipedia: TeX"
+  },
+  {
+    "name": "TeX Font Metric",
+    "mime": "application/x-tex-tfm",
+    "ext": ".tfm",
+    "details": "Wikipedia: TeX Font Metric"
+  },
+  {
+    "name": "Text Encoding and Interchange",
+    "mime": "application/tei+xml",
+    "ext": ".tei",
+    "details": "RFC 6129"
+  },
+  {
+    "name": "Text File",
+    "mime": "text/plain",
+    "ext": ".txt",
+    "details": "Wikipedia: Text File"
+  },
+  {
+    "name": "TIBCO Spotfire",
+    "mime": "application/vnd.spotfire.dxp",
+    "ext": ".dxp",
+    "details": "IANA: TIBCO Spotfire"
+  },
+  {
+    "name": "TIBCO Spotfire",
+    "mime": "application/vnd.spotfire.sfs",
+    "ext": ".sfs",
+    "details": "IANA: TIBCO Spotfire"
+  },
+  {
+    "name": "Time Stamped Data Envelope",
+    "mime": "application/timestamped-data",
+    "ext": ".tsd",
+    "details": "RFC 5955"
+  },
+  {
+    "name": "TRI Systems Config",
+    "mime": "application/vnd.trid.tpt",
+    "ext": ".tpt",
+    "details": "IANA: TRI Systems"
+  },
+  {
+    "name": "Triscape Map Explorer",
+    "mime": "application/vnd.triscape.mxs",
+    "ext": ".mxs",
+    "details": "IANA: Triscape Map Explorer"
+  },
+  {
+    "name": "troff",
+    "mime": "text/troff",
+    "ext": ".t",
+    "details": "Wikipedia: troff"
+  },
+  {
+    "name": "True BASIC",
+    "mime": "application/vnd.trueapp",
+    "ext": ".tra",
+    "details": "IANA: True BASIC"
+  },
+  {
+    "name": "TrueType Font",
+    "mime": "application/x-font-ttf",
+    "ext": ".ttf",
+    "details": "Wikipedia: TrueType"
+  },
+  {
+    "name": "Turtle (Terse RDF Triple Language)",
+    "mime": "text/turtle",
+    "ext": ".ttl",
+    "details": "Wikipedia: Turtle"
+  },
+  {
+    "name": "UMAJIN",
+    "mime": "application/vnd.umajin",
+    "ext": ".umj",
+    "details": "IANA: UMAJIN"
+  },
+  {
+    "name": "Unique Object Markup Language",
+    "mime": "application/vnd.uoml+xml",
+    "ext": ".uoml",
+    "details": "IANA: UOML"
+  },
+  {
+    "name": "Unity 3d",
+    "mime": "application/vnd.unity",
+    "ext": ".unityweb",
+    "details": "IANA: Unity 3d"
+  },
+  {
+    "name": "Universal Forms Description Language",
+    "mime": "application/vnd.ufdl",
+    "ext": ".ufd",
+    "details": "IANA: Universal Forms Description Language"
+  },
+  {
+    "name": "URI Resolution Services",
+    "mime": "text/uri-list",
+    "ext": ".uri",
+    "details": "RFC 2483"
+  },
+  {
+    "name": "User Interface Quartz - Theme (Symbian)",
+    "mime": "application/vnd.uiq.theme",
+    "ext": ".utz",
+    "details": "IANA: User Interface Quartz"
+  },
+  {
+    "name": "Ustar (Uniform Standard Tape Archive)",
+    "mime": "application/x-ustar",
+    "ext": ".ustar",
+    "details": "Wikipedia: Ustar"
+  },
+  {
+    "name": "UUEncode",
+    "mime": "text/x-uuencode",
+    "ext": ".uu",
+    "details": "Wikipedia: UUEncode"
+  },
+  {
+    "name": "vCalendar",
+    "mime": "text/x-vcalendar",
+    "ext": ".vcs",
+    "details": "Wikipedia: vCalendar"
+  },
+  {
+    "name": "vCard",
+    "mime": "text/x-vcard",
+    "ext": ".vcf",
+    "details": "Wikipedia: vCard"
+  },
+  {
+    "name": "Video CD",
+    "mime": "application/x-cdlink",
+    "ext": ".vcd",
+    "details": "Wikipedia: Video CD"
+  },
+  {
+    "name": "Viewport+",
+    "mime": "application/vnd.vsf",
+    "ext": ".vsf",
+    "details": "IANA: Viewport+"
+  },
+  {
+    "name": "Virtual Reality Modeling Language",
+    "mime": "model/vrml",
+    "ext": ".wrl",
+    "details": "Wikipedia: VRML"
+  },
+  {
+    "name": "VirtualCatalog",
+    "mime": "application/vnd.vcx",
+    "ext": ".vcx",
+    "details": "IANA: VirtualCatalog"
+  },
+  {
+    "name": "Virtue MTS",
+    "mime": "model/vnd.mts",
+    "ext": ".mts",
+    "details": "IANA: MTS"
+  },
+  {
+    "name": "Virtue VTU",
+    "mime": "model/vnd.vtu",
+    "ext": ".vtu",
+    "details": "IANA: VTU"
+  },
+  {
+    "name": "Visionary",
+    "mime": "application/vnd.visionary",
+    "ext": ".vis",
+    "details": "IANA: Visionary"
+  },
+  {
+    "name": "Vivo",
+    "mime": "video/vnd.vivo",
+    "ext": ".viv",
+    "details": "IANA: Vivo"
+  },
+  {
+    "name": "Voice Browser Call Control",
+    "mime": "application/ccxml+xml,",
+    "ext": ".ccxml",
+    "details": "Voice Browser Call Control: CCXML Version 1.0"
+  },
+  {
+    "name": "VoiceXML",
+    "mime": "application/voicexml+xml",
+    "ext": ".vxml",
+    "details": "RFC 4267"
+  },
+  {
+    "name": "WAIS Source",
+    "mime": "application/x-wais-source",
+    "ext": ".src",
+    "details": "YoLinux"
+  },
+  {
+    "name": "WAP Binary XML (WBXML)",
+    "mime": "application/vnd.wap.wbxml",
+    "ext": ".wbxml",
+    "details": "IANA: WBXML"
+  },
+  {
+    "name": "WAP Bitamp (WBMP)",
+    "mime": "image/vnd.wap.wbmp",
+    "ext": ".wbmp",
+    "details": "IANA: WBMP"
+  },
+  {
+    "name": "Waveform Audio File Format (WAV)",
+    "mime": "audio/x-wav",
+    "ext": ".wav",
+    "details": "Wikipedia: WAV"
+  },
+  {
+    "name": "Web Distributed Authoring and Versioning",
+    "mime": "application/davmount+xml",
+    "ext": ".davmount",
+    "details": "RFC 4918"
+  },
+  {
+    "name": "Web Open Font Format",
+    "mime": "application/x-font-woff",
+    "ext": ".woff",
+    "details": "Wikipedia: Web Open Font Format"
+  },
+  {
+    "name": "Web Services Policy",
+    "mime": "application/wspolicy+xml",
+    "ext": ".wspolicy",
+    "details": "W3C Web Services Policy"
+  },
+  {
+    "name": "WebP Image",
+    "mime": "image/webp",
+    "ext": ".webp",
+    "details": "Wikipedia: WebP"
+  },
+  {
+    "name": "WebTurbo",
+    "mime": "application/vnd.webturbo",
+    "ext": ".wtb",
+    "details": "IANA: WebTurbo"
+  },
+  {
+    "name": "Widget Packaging and XML Configuration",
+    "mime": "application/widget",
+    "ext": ".wgt",
+    "details": "W3C Widget Packaging and XML Configuration"
+  },
+  {
+    "name": "WinHelp",
+    "mime": "application/winhlp",
+    "ext": ".hlp",
+    "details": "Wikipedia: WinHelp"
+  },
+  {
+    "name": "Wireless Markup Language (WML)",
+    "mime": "text/vnd.wap.wml",
+    "ext": ".wml",
+    "details": "Wikipedia: WML"
+  },
+  {
+    "name": "Wireless Markup Language Script (WMLScript)",
+    "mime": "text/vnd.wap.wmlscript",
+    "ext": ".wmls",
+    "details": "Wikipedia: WMLScript"
+  },
+  {
+    "name": "WMLScript",
+    "mime": "application/vnd.wap.wmlscriptc",
+    "ext": ".wmlsc",
+    "details": "IANA: WMLScript"
+  },
+  {
+    "name": "Wordperfect",
+    "mime": "application/vnd.wordperfect",
+    "ext": ".wpd",
+    "details": "IANA: Wordperfect"
+  },
+  {
+    "name": "Worldtalk",
+    "mime": "application/vnd.wt.stf",
+    "ext": ".stf",
+    "details": "IANA: Worldtalk"
+  },
+  {
+    "name": "WSDL - Web Services Description Language",
+    "mime": "application/wsdl+xml",
+    "ext": ".wsdl",
+    "details": "W3C Web Service Description Language"
+  },
+  {
+    "name": "X BitMap",
+    "mime": "image/x-xbitmap",
+    "ext": ".xbm",
+    "details": "Wikipedia: X BitMap"
+  },
+  {
+    "name": "X PixMap",
+    "mime": "image/x-xpixmap",
+    "ext": ".xpm",
+    "details": "Wikipedia: X PixMap"
+  },
+  {
+    "name": "X Window Dump",
+    "mime": "image/x-xwindowdump",
+    "ext": ".xwd",
+    "details": "Wikipedia: X Window Dump"
+  },
+  {
+    "name": "X.509 Certificate",
+    "mime": "application/x-x509-ca-cert",
+    "ext": ".der",
+    "details": "Wikipedia: X.509"
+  },
+  {
+    "name": "Xfig",
+    "mime": "application/x-xfig",
+    "ext": ".fig",
+    "details": "Wikipedia: Xfig"
+  },
+  {
+    "name": "XHTML - The Extensible HyperText Markup Language",
+    "mime": "application/xhtml+xml",
+    "ext": ".xhtml",
+    "details": "W3C XHTML"
+  },
+  {
+    "name": "XML - Extensible Markup Language",
+    "mime": "application/xml",
+    "ext": ".xml",
+    "details": "W3C XML"
+  },
+  {
+    "name": "XML Configuration Access Protocol - XCAP Diff",
+    "mime": "application/xcap-diff+xml",
+    "ext": ".xdf",
+    "details": "Wikipedia: XCAP"
+  },
+  {
+    "name": "XML Encryption Syntax and Processing",
+    "mime": "application/xenc+xml",
+    "ext": ".xenc",
+    "details": "W3C XML Encryption Syntax and Processing"
+  },
+  {
+    "name": "XML Patch Framework",
+    "mime": "application/patch-ops-error+xml",
+    "ext": ".xer",
+    "details": "RFC 5261"
+  },
+  {
+    "name": "XML Resource Lists",
+    "mime": "application/resource-lists+xml",
+    "ext": ".rl",
+    "details": "RFC 4826"
+  },
+  {
+    "name": "XML Resource Lists",
+    "mime": "application/rls-services+xml",
+    "ext": ".rs",
+    "details": "RFC 4826"
+  },
+  {
+    "name": "XML Resource Lists Diff",
+    "mime": "application/resource-lists-diff+xml",
+    "ext": ".rld",
+    "details": "RFC 4826"
+  },
+  {
+    "name": "XML Transformations",
+    "mime": "application/xslt+xml",
+    "ext": ".xslt",
+    "details": "W3C XSLT"
+  },
+  {
+    "name": "XML-Binary Optimized Packaging",
+    "mime": "application/xop+xml",
+    "ext": ".xop",
+    "details": "W3C XOP"
+  },
+  {
+    "name": "XPInstall - Mozilla",
+    "mime": "application/x-xpinstall",
+    "ext": ".xpi",
+    "details": "Wikipedia: XPI"
+  },
+  {
+    "name": "XSPF - XML Shareable Playlist Format",
+    "mime": "application/xspf+xml",
+    "ext": ".xspf",
+    "details": "XML Shareable Playlist Format"
+  },
+  {
+    "name": "XUL - XML User Interface Language",
+    "mime": "application/vnd.mozilla.xul+xml",
+    "ext": ".xul",
+    "details": "IANA: XUL"
+  },
+  {
+    "name": "XYZ File Format",
+    "mime": "chemical/x-xyz",
+    "ext": ".xyz",
+    "details": "Wikipedia: XYZ File Format"
+  },
+  {
+    "name": "YAML Ain't Markup Language / Yet Another Markup Language",
+    "mime": "text/yaml",
+    "ext": ".yaml",
+    "details": "YAML: YAML Ain't Markup Language"
+  },
+  {
+    "name": "YANG Data Modeling Language",
+    "mime": "application/yang",
+    "ext": ".yang",
+    "details": "Wikipedia: YANG"
+  },
+  {
+    "name": "YIN (YANG - XML)",
+    "mime": "application/yin+xml",
+    "ext": ".yin",
+    "details": "Wikipedia: YANG"
+  },
+  {
+    "name": "Z.U.L. Geometry",
+    "mime": "application/vnd.zul",
+    "ext": ".zir",
+    "details": "IANA: Z.U.L."
+  },
+  {
+    "name": "Zip Archive",
+    "mime": "application/zip",
+    "ext": ".zip",
+    "details": "Wikipedia: Zip"
+  },
+  {
+    "name": "ZVUE Media Manager",
+    "mime": "application/vnd.handheld-entertainment+xml",
+    "ext": ".zmm",
+    "details": "IANA: ZVUE Media Manager"
+  },
+  {
+    "name": "Zzazz Deck",
+    "mime": "application/vnd.zzazz.deck+xml",
+    "ext": ".zaz",
+    "details": "IANA: Zzazz"
+  }
+]
