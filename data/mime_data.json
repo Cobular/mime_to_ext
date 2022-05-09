@@ -1848,6 +1848,12 @@
     "details": "Wikipedia: M4v"
   },
   {
+    "name": "MKV",
+    "mime": "video/x-matroska",
+    "ext": ".mkv",
+    "details": "Wikipedia: MKV"
+  },
+  {
     "name": "Macintosh BinHex 4.0",
     "mime": "application/mac-binhex40",
     "ext": ".hqx",
